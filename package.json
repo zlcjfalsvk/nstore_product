@@ -1,0 +1,32 @@
+{
+  "name": "nstore_product",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "webpack",
+    "pkg-win": "npm run build && pkg dist/index.js -t node18-win-x64"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlcjfalsvk/nstore_product.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlcjfalsvk/nstore_product/issues"
+  },
+  "homepage": "https://github.com/zlcjfalsvk/nstore_product#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.9",
+    "@typescript-eslint/eslint-plugin": "^6.3.0",
+    "@typescript-eslint/parser": "^6.3.0",
+    "eslint": "^8.46.0",
+    "eslint-config-prettier": "^9.0.0",
+    "pkg": "^5.8.1",
+    "prettier": "^3.0.1",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6",
+    "webpack-cli": "^5.1.4"
+  }
+}
