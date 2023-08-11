@@ -1,14 +1,15 @@
 export { Naver } from './naver';
 
-export interface TransformProduct {
-	id: string;
+export interface ITransformProduct {
 	productNo: string;
+	id: string;
 	name: string;
 	url: string;
 	salePrice: number; // 원가
 	discountedSalePrice: number; // 할인가
 	mobileDiscountedSalePrice: number; // 모바일 할인가
 	totalReviewCount: number;
+	tags: string[];
 }
 
 export interface ProductPage {

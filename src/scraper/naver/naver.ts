@@ -1,6 +1,12 @@
 import axios from 'axios';
-import { Product, ProductPage, TransformProduct } from './index';
+import { Product, ProductPage, ITransformProduct } from './index';
 import { Config, JsonDB } from 'node-json-db';
+import { Sleep } from '../../util';
+
+const tag = {
+	NEW: 'NEW',
+	BEST: 'BEST',
+} as const;
 
 export class Naver {
 	#defaultUrl: string;
@@ -8,6 +14,9 @@ export class Naver {
 	#db: JsonDB = {} as JsonDB;
 	#channelUid: string = '';
 	#channelName: string = '';
+
+	bestProductNos: number[] = [];
+	newProductNos: number[] = [];
 
 	constructor(defaultUrl: string, name: string) {
 		this.#defaultUrl = defaultUrl;
@@ -38,14 +47,19 @@ export class Naver {
 					'/',
 				),
 			);
+
+			this.bestProductNos =
+				responseData.specialProducts.bestProductNos || [];
+			this.newProductNos =
+				responseData.specialProducts.newProductNos || [];
 		} catch (e) {
 			throw new Error(`${this.#name}의 channelUid를 알 수 없습니다`);
 		}
 	}
 
 	private async getProducts(): Promise<void> {
-		const pageNum = 1,
-			pageSize = 40;
+		let pageNum = 1;
+		const pageSize = 40;
 
 		const url = `${this.#defaultUrl}/i/v2/channels/${
 			this.#channelUid
@@ -63,23 +77,41 @@ export class Naver {
 				},
 			})
 		)?.data;
+
 		await this.saveTransformDataOnFile(
 			this.transformData(firstPageData.simpleProducts),
 		);
 
 		// const totalPage = Math.ceil(pageSize / firstPageData.totalCount);
+		const totalPage = 2;
+		console.log(`${pageNum++}/${totalPage} 완료 ----------------`);
+		while (pageNum <= totalPage) {
+			const pageData: ProductPage = (
+				await axios.get(url, {
+					headers: {
+						Referer: headerReferer,
+					},
+				})
+			)?.data;
+
+			await this.saveTransformDataOnFile(
+				this.transformData(pageData.simpleProducts),
+			);
+
+			console.log(`${pageNum++}/${totalPage} 완료 ----------------`);
+			// 빠른 호출은 LateLimit 걸릴 수 있어 sleep 추가
+			await Sleep(500);
+		}
 	}
 
-	private transformData(data: Product[]): TransformProduct[] {
-		const item: TransformProduct[] = [];
+	private transformData(data: Product[]): ITransformProduct[] {
+		const item: ITransformProduct[] = [];
 		for (const product of data) {
-			const newTransformProduct: TransformProduct = {
+			const newTransformProduct: ITransformProduct = {
 				id: product.id + '',
 				productNo: product.productNo + '',
 				name: product.name,
-				url: `${this.#defaultUrl}/${product.name}/products/${
-					product.productNo
-				}`,
+				url: `${this.#defaultUrl}/${this.#name}/products/${product.id}`,
 				salePrice: product.salePrice,
 				discountedSalePrice:
 					product.benefitsView?.discountedSalePrice ||
@@ -88,6 +120,7 @@ export class Naver {
 					product.benefitsView?.mobileDiscountedSalePrice ||
 					product.salePrice,
 				totalReviewCount: product.reviewAmount?.totalReviewCount || 0,
+				tags: this.getTags(product.id),
 			};
 			item.push(newTransformProduct);
 		}
@@ -96,7 +129,7 @@ export class Naver {
 	}
 
 	private async saveTransformDataOnFile(
-		data: TransformProduct[],
+		data: ITransformProduct[],
 	): Promise<void> {
 		for (const transformProduct of data) {
 			const hasData = await this.#db.getObjectDefault(
@@ -105,6 +138,21 @@ export class Naver {
 			);
 			const newData = Object.assign({}, hasData, transformProduct);
 			await this.#db.push(`/${transformProduct.id}`, newData);
+			console.log(
+				`저장 완료 id: ${transformProduct.id}, productNo: ${transformProduct.productNo}, name: ${transformProduct.name} ---`,
+			);
 		}
+	}
+
+	private getTags(id: number): string[] {
+		const tags = [];
+		if (this.bestProductNos.includes(id)) {
+			tags.push(tag.BEST);
+		}
+		if (this.newProductNos.includes(id)) {
+			tags.push(tag.NEW);
+		}
+
+		return tags;
 	}
 }
