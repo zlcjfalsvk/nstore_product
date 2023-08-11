@@ -5,7 +5,8 @@
   "main": "src/index.ts",
   "scripts": {
     "build": "webpack",
-    "pkg-win": "npm run build && pkg dist/index.js -t node18-win-x64"
+    "pkg-win": "npm run build && pkg dist/index.js -t node18-win-x64",
+    "pkg-imac":  "npm run build && pkg dist/index.js -t node18-macos-x64"
   },
   "repository": {
     "type": "git",
