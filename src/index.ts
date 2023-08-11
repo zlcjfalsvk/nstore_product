@@ -2,6 +2,8 @@ import * as readline from 'readline/promises';
 import { stdin as input, stdout as output } from 'process';
 
 import { Naver } from './scraper';
+import * as fs from 'fs';
+import { Parser } from '@json2csv/plainjs';
 
 const NAVER_SMART_STORE_DEFAULT_URL = 'https://smartstore.naver.com';
 
@@ -19,7 +21,21 @@ const start = async () => {
 		answer.replace(NAVER_SMART_STORE_DEFAULT_URL + '/', ''),
 	);
 
-	await naverScraper.Start();
+	const marketReadableName = await naverScraper.Start();
+	// CSV 추출
+	const jsonData = JSON.parse(
+		fs.readFileSync(`db/${marketReadableName}.json`).toString(),
+	);
+
+	const opts = {};
+	const parser = new Parser(opts);
+
+	const list = [];
+	for (const productId in jsonData) {
+		list.push(jsonData[productId]);
+	}
+	const parsedList = parser.parse(list);
+	fs.writeFileSync(`${marketReadableName}.csv`, parsedList);
 };
 
 start().then(async () => {

@@ -23,13 +23,17 @@ export class Naver {
 		this.#name = name;
 	}
 
-	async Start(): Promise<void> {
+	async Start(): Promise<string> {
 		try {
 			await this.getMarketInfo();
 			await this.getProducts();
+
+			return this.#channelName;
 		} catch (e) {
 			console.error(e);
 		}
+
+		return '';
 	}
 
 	private async getMarketInfo(): Promise<void> {
