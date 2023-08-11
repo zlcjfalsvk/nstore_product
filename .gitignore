@@ -134,4 +134,6 @@ dist
 # exe
 *.exe
 
+# CSV
+*.CSV
 db
