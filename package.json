@@ -30,6 +30,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
+    "@json2csv/plainjs": "^7.0.1",
     "axios": "^1.4.0",
     "node-json-db": "^2.2.0"
   }
