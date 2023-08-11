@@ -65,45 +65,53 @@ export class Naver {
 		let pageNum = 1;
 		const pageSize = 40;
 
-		const url = `${this.#defaultUrl}/i/v2/channels/${
-			this.#channelUid
-		}/categories/ALL/products?categorySearchType=STDCATG&sortType=TOTALSALE&page=${pageNum}&pageSize=${pageSize}`;
-
-		const headerReferer = `${this.#defaultUrl}/${
-			this.#name
-		}/category/ALL?st=TOTALSALE&dt=BIG_IMAGE&page=${pageNum}&size=${pageSize}`;
-
+		let page = this.getPageUrl(pageNum, pageSize);
 		// 상품을 구하고 바로 가공을 한다
 		const firstPageData: ProductPage = (
-			await axios.get(url, {
+			await axios.get(page.url, {
 				headers: {
-					Referer: headerReferer,
+					Referer: page.headerReferer,
 				},
 			})
 		)?.data;
 
-		await this.saveTransformDataOnFile(
-			this.transformData(firstPageData.simpleProducts),
-		);
+		const transformData = this.transformData(firstPageData.simpleProducts);
+		await this.saveTransformDataOnFile(transformData);
+
+		// 요청 사항 1
+		if (transformData.filter((data) => data.tags.includes(tag.NEW))) {
+			console.log(
+				`${pageNum} Page NEW 발견으로 인한 종료 ----------------`,
+			);
+			return;
+		}
 
 		const totalPage = Math.ceil(firstPageData.totalCount / pageSize);
-		console.log(`${pageNum++}/${totalPage} 완료 ----------------`);
+		console.log(`${pageNum++}/${totalPage} Page 완료 ----------------`);
 		while (pageNum <= totalPage) {
+			page = this.getPageUrl(pageNum, pageSize);
 			const pageData: ProductPage = (
-				await axios.get(url, {
+				await axios.get(page.url, {
 					headers: {
-						Referer: headerReferer,
+						Referer: page.headerReferer,
 					},
 				})
 			)?.data;
 
-			await this.saveTransformDataOnFile(
-				this.transformData(pageData.simpleProducts),
-			);
+			const transformData = this.transformData(pageData.simpleProducts);
+			await this.saveTransformDataOnFile(transformData);
 
-			console.log(`${pageNum++}/${totalPage} 완료 ----------------`);
+			console.log(`${pageNum++}/${totalPage} Page 완료 ----------------`);
 			// 빠른 호출은 LateLimit 걸릴 수 있어 sleep 추가
 			await Sleep(500);
+
+			// 요청 사항 1
+			if (transformData.filter((data) => data.tags.includes(tag.NEW))) {
+				console.log(
+					`${pageNum}/${totalPage} Page NEW 발견으로 인한 종료 ----------------`,
+				);
+				break;
+			}
 		}
 	}
 
@@ -157,5 +165,23 @@ export class Naver {
 		}
 
 		return tags;
+	}
+
+	private getPageUrl(
+		pageNum: number,
+		pageSize: number,
+	): {
+		url: string;
+		headerReferer: string;
+	} {
+		const url = `${this.#defaultUrl}/i/v2/channels/${
+			this.#channelUid
+		}/categories/ALL/products?categorySearchType=STDCATG&sortType=TOTALSALE&page=${pageNum}&pageSize=${pageSize}`;
+
+		const headerReferer = `${this.#defaultUrl}/${
+			this.#name
+		}/category/ALL?st=TOTALSALE&dt=BIG_IMAGE&page=${pageNum}&size=${pageSize}`;
+
+		return { url, headerReferer };
 	}
 }

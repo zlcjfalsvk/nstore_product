@@ -22,20 +22,20 @@ const start = async () => {
 	);
 
 	const marketReadableName = await naverScraper.Start();
-	// CSV 추출
-	const jsonData = JSON.parse(
-		fs.readFileSync(`db/${marketReadableName}.json`).toString(),
-	);
-
-	const opts = {};
-	const parser = new Parser(opts);
-
-	const list = [];
-	for (const productId in jsonData) {
-		list.push(jsonData[productId]);
-	}
-	const parsedList = parser.parse(list);
-	fs.writeFileSync(`${marketReadableName}.csv`, parsedList);
+	// // CSV 추출
+	// const jsonData = JSON.parse(
+	// 	fs.readFileSync(`db/${marketReadableName}.json`).toString(),
+	// );
+	//
+	// const opts = {};
+	// const parser = new Parser(opts);
+	//
+	// const list = [];
+	// for (const productId in jsonData) {
+	// 	list.push(jsonData[productId]);
+	// }
+	// const parsedList = parser.parse(list);
+	// fs.writeFileSync(`${marketReadableName}.csv`, parsedList);
 };
 
 start().then(async () => {
