@@ -86,7 +86,7 @@ export class Naver {
 			this.transformData(firstPageData.simpleProducts),
 		);
 
-		const totalPage = Math.ceil(pageSize / firstPageData.totalCount);
+		const totalPage = Math.ceil(firstPageData.totalCount / pageSize);
 		console.log(`${pageNum++}/${totalPage} 완료 ----------------`);
 		while (pageNum <= totalPage) {
 			const pageData: ProductPage = (
