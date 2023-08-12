@@ -7,3 +7,6 @@
 
 ### For Window
 - npm run pkg-win
+
+### For Intel Mac
+- npm run pkg-imac
