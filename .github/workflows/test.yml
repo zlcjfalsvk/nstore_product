@@ -1,0 +1,14 @@
+name: Testing
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [workflow_dispatch, push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check out
+        uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: npm install
+      - run: npm test
