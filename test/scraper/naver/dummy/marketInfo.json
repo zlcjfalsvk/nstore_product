@@ -1,0 +1,748 @@
+{
+  "channelNo": 101602353,
+  "displayConfig": {
+    "createdDate": "2022-06-29T04:57:40.206+00:00",
+    "createdBy": "PROCESSOR:DisplayConfigSyncProcessor",
+    "lastModifiedDate": "2023-05-23T08:35:29.890+00:00",
+    "lastModifiedBy": "CENTER:101602353",
+    "revision": 2,
+    "channelNo": 101602353,
+    "commonConfig": {
+      "productDetailClovaMDExposurePosition": "UPPER_RELATION_PRODUCT",
+      "navigationType": "TOP",
+      "colorType": "YELLOW",
+      "colorCode": "#fcdf33",
+      "recentlySelectedColors": [],
+      "productDetailBestReviewExposureType": "LIST"
+    },
+    "widgets": {
+      "storeNameWidget": {
+        "visible": true,
+        "order": 0,
+        "type": "STORE_NAME",
+        "nameType": "LOGO",
+        "textColor": "BLACK",
+        "logo": {
+          "url": "https://shop-phinf.pstatic.net/20230523_133/1684830904418fc0OQ_PNG/%C1%A6%C0%CC%C5%D9%BD%BA%C5%E4%BE%EE_%281%29.png",
+          "width": 400,
+          "height": 90
+        },
+        "mobileLogo": {
+          "url": "https://shop-phinf.pstatic.net/20230523_253/1684830780382lU6Qz_PNG/%C1%A6%C0%CC%C5%D9%BD%BA%C5%E4%BE%EE.png",
+          "width": 400,
+          "height": 110
+        },
+        "isMobileGNBColorWhite": true
+      },
+      "categoryMenuWidget": {
+        "visible": true,
+        "order": 1,
+        "type": "CATEGORY_MENU",
+        "categoryMenus": {
+          "BEST": {
+            "type": "BEST",
+            "title": "베스트",
+            "visible": true
+          }
+        },
+        "menus": {
+          "PROFILE": {
+            "type": "PROFILE",
+            "title": "판매자 정보",
+            "visible": true
+          },
+          "QNA": {
+            "type": "QNA",
+            "title": "묻고 답하기",
+            "visible": true
+          },
+          "REVIEW_EVENT": {
+            "type": "REVIEW_EVENT",
+            "title": "리뷰이벤트",
+            "visible": true
+          },
+          "EXHIBITION": {
+            "type": "EXHIBITION",
+            "title": "기획전",
+            "visible": true
+          },
+          "NOTICE": {
+            "type": "NOTICE",
+            "title": "공지사항",
+            "visible": true
+          },
+          "SHOPPING_STORY": {
+            "type": "SHOPPING_STORY",
+            "title": "쇼핑스토리",
+            "visible": true
+          }
+        }
+      },
+      "promotionBannerWidget": {
+        "visible": true,
+        "order": 2,
+        "type": "PROMOTION_BANNER",
+        "items": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "",
+              "width": 0,
+              "height": 0
+            },
+            "pcImage": {
+              "url": "",
+              "width": 0,
+              "height": 0
+            },
+            "textColor": "WHITE",
+            "title": "제목을 입력하세요.",
+            "description": "내용을 입력하세요.",
+            "linkType": "PRODUCT"
+          }
+        ]
+      },
+      "sellerInfoWidget": {
+        "visible": true,
+        "order": 3,
+        "type": "SELLER_INFO",
+        "storeGradeVisible": true,
+        "dataLabVisible": true,
+        "todayVisitCountVisible": true,
+        "totalVisitCountVisible": true
+      },
+      "benefitBannerWidget": {
+        "visible": true,
+        "order": 4,
+        "type": "BENEFIT_BANNER"
+      },
+      "bestProductWidget": {
+        "visible": false,
+        "order": 5,
+        "type": "BEST_PRODUCT",
+        "title": "베스트 상품",
+        "thumbnailShapeType": "SQUARE",
+        "aggregationType": "DAILY",
+        "displayCount": 4
+      },
+      "bestReviewWidget": {
+        "visible": false,
+        "order": 6,
+        "type": "BEST_REVIEW",
+        "title": "베스트리뷰 상품",
+        "productNos": [],
+        "selectType": "AUTO"
+      },
+      "newProductWidget": {
+        "visible": false,
+        "order": 7,
+        "type": "NEW_PRODUCT",
+        "title": "신상품",
+        "thumbnailShapeType": "SQUARE",
+        "displayCount": 8
+      },
+      "customProductWidget": {
+        "visible": false,
+        "order": 8,
+        "type": "CUSTOM_PRODUCT",
+        "title": "추천상품",
+        "productDisplayType": "LIST",
+        "listProduct": {
+          "thumbnailShapeType": "SQUARE",
+          "productNos": [],
+          "displayCount": 8
+        },
+        "mosaicProduct": {
+          "mainTitle": "메인 타이틀",
+          "subTitle": "설명",
+          "products": [
+            {
+              "id": 1,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 2,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 3,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 4,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 5,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 6,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 7,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 8,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            }
+          ]
+        },
+        "fullImageProduct": {
+          "products": [
+            {
+              "id": 1,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 2,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 3,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 4,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 5,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 6,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 7,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            },
+            {
+              "id": 8,
+              "displayImage": {
+                "url": "",
+                "width": 0,
+                "height": 0,
+                "originalUrl": "",
+                "top": 0,
+                "left": 0
+              }
+            }
+          ]
+        }
+      },
+      "customBannerWidget": {
+        "visible": false,
+        "order": 9,
+        "type": "CUSTOM_BANNER",
+        "banners": [
+          {
+            "id": 1,
+            "visible": true,
+            "mobileImage": {
+              "url": "",
+              "width": 0,
+              "height": 0
+            },
+            "pcImage": {
+              "url": "",
+              "width": 0,
+              "height": 0
+            },
+            "linkType": "PRODUCT"
+          }
+        ]
+      },
+      "shoppingStoryWidget": {
+        "visible": false,
+        "order": 10,
+        "type": "SHOPPING_STORY",
+        "title": "쇼핑 스토리",
+        "selectType": "AUTO",
+        "shoppingStoryIds": []
+      },
+      "wholeProductWidget": {
+        "visible": true,
+        "order": 11,
+        "type": "WHOLE_PRODUCT",
+        "title": "전체상품",
+        "thumbnailShapeType": "SQUARE",
+        "selectType": "AUTO",
+        "productNos": [],
+        "sortType": "POPULARITY",
+        "displayCount": 50
+      },
+      "exhibitionBannerWidget": {
+        "visible": false,
+        "order": 12,
+        "type": "EXHIBIT_BANNER"
+      },
+      "storyProductWidget": {
+        "visible": false,
+        "order": 13,
+        "type": "STORY_PRODUCT",
+        "thumbnailShapeType": "SQUARE",
+        "sortType": "CUSTOM_ORDER",
+        "productNos": [],
+        "productDescriptionMap": {},
+        "rankingVisible": true,
+        "rankingAggregationType": "DAILY",
+        "bestReviewVisible": true,
+        "shoppingStoryVisible": true
+      },
+      "footerWidget": {
+        "visible": true,
+        "order": 14,
+        "type": "FOOTER",
+        "storeLogo": {
+          "logoImage": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "visible": false
+        }
+      }
+    }
+  },
+  "categoryConfig": {
+    "channelNo": 101602353,
+    "categoryDisplayType": "PRODUCT",
+    "categoryProductListProp": {
+      "imageShapeType": "SQUARE",
+      "imageDisplayType": "REPRESENTATIVE",
+      "productUnitAddInfo": {
+        "cartVisible": false,
+        "colorChipVisible": false,
+        "starRatingVisible": false
+      }
+    }
+  },
+  "channel": {
+    "id": 101602353,
+    "channelId": "1v0U4EQ4W78RV6TIG1Dqjp",
+    "channelUid": "2sWE1S4MMWjl2L35JuN5z",
+    "channelServiceType": "STOREFARM",
+    "channelExternalStatusType": "NORMAL",
+    "channelName": "제이텐스토어",
+    "url": "jaytenstore",
+    "representImageInfoList": [
+      {
+        "imageUrl": "https://shop-phinf.pstatic.net/20230523_185/16848300585801GkGl_PNG/85965842298368885_240000946.png",
+        "imageName": "85965842298368885_240000946.png",
+        "imageClass": "STORE_REPRESENTATIVE",
+        "width": 160,
+        "height": 160,
+        "fileSize": 7486,
+        "sortOrder": 0,
+        "representative": false
+      }
+    ],
+    "talkAccountId": "w4bt73",
+    "talkExposureYn": true,
+    "description": "해외직구, 해외배송 전문몰입니다.",
+    "contactInfo": {
+      "displayTelNo": true,
+      "disabledDomesticTelNo": false,
+      "telNo": {
+        "countryCode": "KOR",
+        "phoneNo": "01065247565",
+        "formattedNumber": "010-6524-7565"
+      },
+      "overseaTelNo": {
+        "countryCode": "USA",
+        "phoneNo": "",
+        "formattedNumber": ""
+      },
+      "onlineSales": false,
+      "offlineSales": false
+    },
+    "representType": "DOMESTIC_BUSINESS",
+    "identity": "4882401170",
+    "representName": "제이텐",
+    "representativeName": "유재현",
+    "businessType": "PRIVATE",
+    "declaredToOnlineMarkettingNumber": "2022-대전동구-0360",
+    "businessAddressInfo": {
+      "address": "대전광역시 동구 가오동 68-2",
+      "apiType": "NAVER",
+      "basicAddress": "대전광역시 동구",
+      "detailAddress": "302호",
+      "fullAddressInfo": "대전광역시 동구 신기로 155 302호 (우 : 34681) ",
+      "hasJibunAddress": false,
+      "hasRoadNameAddress": true,
+      "latitude": "36.311186",
+      "longitude": "127.4617287",
+      "massiveAddress": "",
+      "naverMapCode": "07110105",
+      "newZipCode": "34681",
+      "overseas": false,
+      "placeId": "07110105",
+      "representAddressType": "road",
+      "zipCode": "34681"
+    },
+    "accountNo": 101512203,
+    "accountId": "ncp_1ofrbf_01",
+    "mallSeq": 6331584,
+    "chrgrEmail": "coroom2@gmail.com",
+    "naverPayNo": 101512099,
+    "payReferenceKey": "511522099",
+    "actionGrade": "FIFTH",
+    "serviceSatisfactionGrade": false,
+    "saleCount": 12,
+    "csResponseRatio": 1,
+    "in2DaysDeliveryCompleteRatio": 0,
+    "averageSaleSatificationScore": 3,
+    "naSiteId": "s_11f2ef163fcd0",
+    "representativeImageUrl": "https://shop-phinf.pstatic.net/20230523_185/16848300585801GkGl_PNG/85965842298368885_240000946.png",
+    "additionalImageInfoList": [],
+    "isBusiness": true,
+    "representTelephoneNumber": "010-6524-7565",
+    "isDomesticPhoneNumber": true,
+    "domesticTelephoneNumberReported": false,
+    "isDomesticTelephoneNumberReportable": true,
+    "domesticTelephoneNumberCertified": true,
+    "representativeBirthDay": "1993-03-21T15:00:00.000+00:00",
+    "brandStoreExhibitionYn": false,
+    "brandStoreName": "제이텐스토어",
+    "brandUrl": "jaytenstore",
+    "brandCatalogUseYn": false,
+    "brandDisplayReinforceYn": false,
+    "blogExposureYn": false,
+    "clovaMDCompareYn": false,
+    "clovaMDPurchaseYn": false,
+    "clovaMDUserFriendlyYn": false,
+    "arrivalGuaranteeUseYn": false,
+    "loungeOperateYn": false,
+    "loungeNotifyReceiveAgreeYn": false,
+    "consumerSurveyYn": false
+  },
+  "firstCategories": [
+    {
+      "createdDate": "2022-07-23T06:38:40.029+00:00",
+      "lastModifiedDate": "2022-07-23T06:38:40.029+00:00",
+      "revision": 0,
+      "id": "33025c3aad6e45619c04e6cf2bc8fe8b",
+      "channelNo": 101602353,
+      "type": "STANDARD_CATEGORY",
+      "name": "생활/건강",
+      "categoryId": "50000008",
+      "parentCategoryId": "0",
+      "superiorCategoryId": "0",
+      "wholeCategoryId": "50000008",
+      "wholeCategoryName": "생활/건강",
+      "parentStoreCategoryId": "0",
+      "superiorStoreCategoryId": "0",
+      "wholeStoreCategoryId": "33025c3aad6e45619c04e6cf2bc8fe8b",
+      "level": 1,
+      "sortOrder": 1,
+      "allProductCategory": false,
+      "exposure": true,
+      "selfExposure": true,
+      "productSortType": "POPULAR",
+      "productDisplayType": "BIG_IMAGE",
+      "mobileProductDisplayType": "LIST",
+      "mergeUpdatedDate": "2022-07-23T06:38:40.029+00:00"
+    },
+    {
+      "createdDate": "2022-07-24T08:38:35.873+00:00",
+      "lastModifiedDate": "2022-07-24T08:38:35.873+00:00",
+      "revision": 0,
+      "id": "3aeaf3f8c1114ce3b168638a62df1d94",
+      "channelNo": 101602353,
+      "type": "STANDARD_CATEGORY",
+      "name": "스포츠/레저",
+      "categoryId": "50000007",
+      "parentCategoryId": "0",
+      "superiorCategoryId": "0",
+      "wholeCategoryId": "50000007",
+      "wholeCategoryName": "스포츠/레저",
+      "parentStoreCategoryId": "0",
+      "superiorStoreCategoryId": "0",
+      "wholeStoreCategoryId": "3aeaf3f8c1114ce3b168638a62df1d94",
+      "level": 1,
+      "sortOrder": 396,
+      "allProductCategory": false,
+      "exposure": true,
+      "selfExposure": true,
+      "productSortType": "POPULAR",
+      "productDisplayType": "BIG_IMAGE",
+      "mobileProductDisplayType": "LIST",
+      "mergeUpdatedDate": "2023-08-07T02:12:20.853+00:00"
+    },
+    {
+      "createdDate": "2022-07-25T23:15:50.379+00:00",
+      "lastModifiedDate": "2022-07-25T23:15:50.379+00:00",
+      "revision": 0,
+      "id": "984ff9a62b114c449e48f32f19c13bf4",
+      "channelNo": 101602353,
+      "type": "STANDARD_CATEGORY",
+      "name": "패션잡화",
+      "categoryId": "50000001",
+      "parentCategoryId": "0",
+      "superiorCategoryId": "0",
+      "wholeCategoryId": "50000001",
+      "wholeCategoryName": "패션잡화",
+      "parentStoreCategoryId": "0",
+      "superiorStoreCategoryId": "0",
+      "wholeStoreCategoryId": "984ff9a62b114c449e48f32f19c13bf4",
+      "level": 1,
+      "sortOrder": 551,
+      "allProductCategory": false,
+      "exposure": true,
+      "selfExposure": true,
+      "productSortType": "POPULAR",
+      "productDisplayType": "BIG_IMAGE",
+      "mobileProductDisplayType": "LIST",
+      "mergeUpdatedDate": "2023-08-07T02:12:20.853+00:00"
+    },
+    {
+      "createdDate": "2022-07-25T23:15:50.379+00:00",
+      "lastModifiedDate": "2022-07-25T23:15:50.379+00:00",
+      "revision": 0,
+      "id": "d845dc643acc46feb9078ecc15a2fc66",
+      "channelNo": 101602353,
+      "type": "STANDARD_CATEGORY",
+      "name": "가구/인테리어",
+      "categoryId": "50000004",
+      "parentCategoryId": "0",
+      "superiorCategoryId": "0",
+      "wholeCategoryId": "50000004",
+      "wholeCategoryName": "가구/인테리어",
+      "parentStoreCategoryId": "0",
+      "superiorStoreCategoryId": "0",
+      "wholeStoreCategoryId": "d845dc643acc46feb9078ecc15a2fc66",
+      "level": 1,
+      "sortOrder": 616,
+      "allProductCategory": false,
+      "exposure": true,
+      "selfExposure": true,
+      "productSortType": "POPULAR",
+      "productDisplayType": "BIG_IMAGE",
+      "mobileProductDisplayType": "LIST",
+      "mergeUpdatedDate": "2023-08-07T02:12:20.853+00:00"
+    },
+    {
+      "createdDate": "2022-07-28T08:38:48.995+00:00",
+      "lastModifiedDate": "2022-07-28T08:38:48.995+00:00",
+      "revision": 0,
+      "id": "39e43aebef2b467dbd28fbd89c4c6ecf",
+      "channelNo": 101602353,
+      "type": "STANDARD_CATEGORY",
+      "name": "디지털/가전",
+      "categoryId": "50000003",
+      "parentCategoryId": "0",
+      "superiorCategoryId": "0",
+      "wholeCategoryId": "50000003",
+      "wholeCategoryName": "디지털/가전",
+      "parentStoreCategoryId": "0",
+      "superiorStoreCategoryId": "0",
+      "wholeStoreCategoryId": "39e43aebef2b467dbd28fbd89c4c6ecf",
+      "level": 1,
+      "sortOrder": 755,
+      "allProductCategory": false,
+      "exposure": true,
+      "selfExposure": true,
+      "productSortType": "POPULAR",
+      "productDisplayType": "BIG_IMAGE",
+      "mobileProductDisplayType": "LIST",
+      "mergeUpdatedDate": "2023-08-07T02:12:20.853+00:00"
+    },
+    {
+      "createdDate": "2022-07-28T23:15:26.581+00:00",
+      "lastModifiedDate": "2022-07-28T23:15:26.581+00:00",
+      "revision": 0,
+      "id": "62a49abc054e415a92ac856848cf4f55",
+      "channelNo": 101602353,
+      "type": "STANDARD_CATEGORY",
+      "name": "패션의류",
+      "categoryId": "50000000",
+      "parentCategoryId": "0",
+      "superiorCategoryId": "0",
+      "wholeCategoryId": "50000000",
+      "wholeCategoryName": "패션의류",
+      "parentStoreCategoryId": "0",
+      "superiorStoreCategoryId": "0",
+      "wholeStoreCategoryId": "62a49abc054e415a92ac856848cf4f55",
+      "level": 1,
+      "sortOrder": 921,
+      "allProductCategory": false,
+      "exposure": true,
+      "selfExposure": true,
+      "productSortType": "POPULAR",
+      "productDisplayType": "BIG_IMAGE",
+      "mobileProductDisplayType": "LIST",
+      "mergeUpdatedDate": "2023-08-07T02:12:20.853+00:00"
+    },
+    {
+      "createdDate": "2022-08-24T06:08:46.769+00:00",
+      "lastModifiedDate": "2022-08-24T06:08:46.769+00:00",
+      "revision": 0,
+      "id": "43bf9e509b3d4aba99ae66dc8d790ae4",
+      "channelNo": 101602353,
+      "type": "STANDARD_CATEGORY",
+      "name": "화장품/미용",
+      "categoryId": "50000002",
+      "parentCategoryId": "0",
+      "superiorCategoryId": "0",
+      "wholeCategoryId": "50000002",
+      "wholeCategoryName": "화장품/미용",
+      "parentStoreCategoryId": "0",
+      "superiorStoreCategoryId": "0",
+      "wholeStoreCategoryId": "43bf9e509b3d4aba99ae66dc8d790ae4",
+      "level": 1,
+      "sortOrder": 944,
+      "allProductCategory": false,
+      "exposure": true,
+      "selfExposure": true,
+      "productSortType": "POPULAR",
+      "productDisplayType": "BIG_IMAGE",
+      "mobileProductDisplayType": "LIST",
+      "mergeUpdatedDate": "2023-08-07T02:12:20.853+00:00"
+    },
+    {
+      "createdDate": "2022-07-23T06:38:40.029+00:00",
+      "lastModifiedDate": "2022-07-23T06:38:40.029+00:00",
+      "revision": 0,
+      "id": "51c01938666143ca9e048cab76b8c85e",
+      "channelNo": 101602353,
+      "type": "STANDARD_CATEGORY",
+      "name": "전체상품",
+      "categoryId": "ALL",
+      "parentCategoryId": "ALL",
+      "superiorCategoryId": "ALL",
+      "wholeCategoryId": "ALL",
+      "wholeCategoryName": "전체상품",
+      "parentStoreCategoryId": "0",
+      "superiorStoreCategoryId": "0",
+      "wholeStoreCategoryId": "51c01938666143ca9e048cab76b8c85e",
+      "level": 1,
+      "sortOrder": 951,
+      "allProductCategory": true,
+      "exposure": true,
+      "selfExposure": true,
+      "productSortType": "POPULAR",
+      "productDisplayType": "BIG_IMAGE",
+      "mobileProductDisplayType": "LIST",
+      "mergeUpdatedDate": "2023-08-07T02:12:20.853+00:00"
+    }
+  ],
+  "productCount": 2754,
+  "exhibitions": [],
+  "specialProducts": {
+    "bestProductNos": [],
+    "newProductNos": []
+  },
+  "isWebtoonStudio": false,
+  "isLineLuxury": false,
+  "throwable": false
+}
