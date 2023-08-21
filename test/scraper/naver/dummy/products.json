@@ -1,0 +1,4772 @@
+{
+  "sortType": "TOTALSALE",
+  "page": "1",
+  "simpleProducts": [
+    {
+      "id": 7614312048,
+      "category": {
+        "wholeCategoryId": "50000007>50000051>50001289",
+        "wholeCategoryName": "스포츠/레저>무술용품>봉/곤/창",
+        "categoryId": "50001289",
+        "categoryName": "봉/곤/창"
+      },
+      "name": "쌍절곤 절권도 합기도 무술 실전 호신술 체육관 용품",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7577459716,
+      "salePrice": 25900,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {
+        "sellerTags": [
+          {
+            "code": 389982,
+            "text": "쌍절곤"
+          },
+          {
+            "code": 521059,
+            "text": "쌍절봉"
+          },
+          {
+            "code": 168259,
+            "text": "호신용"
+          },
+          {
+            "code": 324560,
+            "text": "호신용봉"
+          },
+          {
+            "code": 109095,
+            "text": "간편한운동용품"
+          },
+          {
+            "code": 384380,
+            "text": "합기도"
+          },
+          {
+            "code": 2483311,
+            "text": "간편한운동"
+          },
+          {
+            "code": 173103,
+            "text": "연습용"
+          },
+          {
+            "code": 322128,
+            "text": "초보자도쉽게"
+          },
+          {
+            "code": 4887,
+            "text": "운동용"
+          }
+        ]
+      },
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 25900,
+        "mobileDiscountedSalePrice": 25900,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 259,
+        "mobileManagerPurchasePoint": 259,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 3,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 5,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230119_153/1674118755269QsGVl_JPEG/75254538982252665_1918793553.jpeg",
+      "optionalImageUrls": [],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [실버 플레임 키즈 100g] [실버 플레임 120g] [이소룡 기념 170g]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "stockQuantity": 2987,
+      "benefitsPolicy": {},
+      "mobileBenefitsPolicy": {},
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000007",
+          "categoryName": "스포츠/레저"
+        },
+        {
+          "categoryId": "50000051",
+          "categoryName": "무술용품"
+        },
+        {
+          "categoryId": "50001289",
+          "categoryName": "봉/곤/창"
+        }
+      ]
+    },
+    {
+      "id": 7973174427,
+      "category": {
+        "wholeCategoryId": "50000004>50000107>50001115>50003687",
+        "wholeCategoryName": "가구/인테리어>DIY자재/용품>타일>자기질타일",
+        "categoryId": "50003687",
+        "categoryName": "자기질타일"
+      },
+      "name": "템바보드 주방타일 홈CC인테리어 오로라 타일 화장실",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7935035064,
+      "salePrice": 14870,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 14870,
+        "mobileDiscountedSalePrice": 14870,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 148,
+        "mobileManagerPurchasePoint": 148,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 2,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 2,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230125_170/1674650848055IaLDr_JPEG/75786746734632607_1617583300.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230125_25/1674650848445tgxwm_JPEG/75786691155616104_1801241540.jpeg",
+        "https://shop-phinf.pstatic.net/20230125_203/1674650848852INhil_JPEG/75786691561516846_1786722418.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [다른 핑크 심포니] [다른 그린 심포니 ] [다른 화이트 매직 컬러]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "stockQuantity": 2992,
+      "benefitsPolicy": {},
+      "mobileBenefitsPolicy": {},
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000004",
+          "categoryName": "가구/인테리어"
+        },
+        {
+          "categoryId": "50000107",
+          "categoryName": "DIY자재/용품"
+        },
+        {
+          "categoryId": "50001115",
+          "categoryName": "타일"
+        },
+        {
+          "categoryId": "50003687",
+          "categoryName": "자기질타일"
+        }
+      ]
+    },
+    {
+      "id": 8429029308,
+      "category": {
+        "wholeCategoryId": "50000008>50000156>50000872>50004353",
+        "wholeCategoryName": "생활/건강>악기>타악기>타악기소품/부품",
+        "categoryId": "50004353",
+        "categoryName": "타악기소품/부품"
+      },
+      "name": "드럼 심벌 캡 나사 하이햇 암 버클 패드 펠트 스크류 홀더",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8388826270,
+      "salePrice": 21860,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {
+        "sellerTags": [
+          {
+            "text": "타악기소품부품"
+          },
+          {
+            "text": "악기소품"
+          },
+          {
+            "text": "튜닝"
+          },
+          {
+            "text": "악기수리"
+          },
+          {
+            "text": "수리공구"
+          },
+          {
+            "text": "수리점"
+          }
+        ]
+      },
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "naverShoppingSearchInfo": {
+        "manufacturerName": "제이텐스토어협력사",
+        "brandName": "제이텐스토어협력사"
+      },
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 15300,
+        "mobileDiscountedSalePrice": 15300,
+        "sellerImmediateDiscountAmount": 6560,
+        "mobileSellerImmediateDiscountAmount": 6560,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 30,
+        "mobileDiscountedRatio": 30,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 153,
+        "mobileManagerPurchasePoint": 153,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 500,
+        "premiumPurchaseReviewPoint": 1000,
+        "storeMemberReviewPoint": 1000,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 500,
+        "photoVideoReviewPoint": 1000,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230420_169/1681935161257TXixM_JPEG/83070989084186489_202629254.jpg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230420_228/1681935161497winfo_JPEG/83070989322714616_844498614.jpg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 설명 15mm 핸드 트위스트 드럼 나사 18mm 핸드 트위스트 드럼 나사 두 개의 나비 심벌즈 캡 DP802-1 심벌즈 홀더 2개 DPCT802 블랙 펠트 패드 4개 팩 DPCY4014 심벌즈 캡 레스트 세트 상세 페이지",
+        "editorType": "SEONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000156",
+          "categoryName": "악기"
+        },
+        {
+          "categoryId": "50000872",
+          "categoryName": "타악기"
+        },
+        {
+          "categoryId": "50004353",
+          "categoryName": "타악기소품/부품"
+        }
+      ]
+    },
+    {
+      "id": 8396881648,
+      "category": {
+        "wholeCategoryId": "50000008>50000055>50000939>50003967",
+        "wholeCategoryName": "생활/건강>자동차용품>키용품>키케이스",
+        "categoryId": "50003967",
+        "categoryName": "키케이스"
+      },
+      "name": "BMW 키커버 IX 740Li X7 키 케이스 TPU 홀더 화이트 블랙",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8356822895,
+      "salePrice": 109580,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {
+        "sellerTags": [
+          {
+            "text": "30대남성"
+          },
+          {
+            "text": "30대여성"
+          },
+          {
+            "text": "차키링"
+          },
+          {
+            "text": "아빠선물"
+          },
+          {
+            "text": "남친선물"
+          },
+          {
+            "text": "가죽키지갑"
+          },
+          {
+            "text": "키링선물"
+          },
+          {
+            "text": "수제"
+          },
+          {
+            "text": "선물"
+          },
+          {
+            "text": "새차선물"
+          }
+        ]
+      },
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "naverShoppingSearchInfo": {
+        "manufacturerName": "제이텐스토어협력사",
+        "brandName": "제이텐스토어협력사",
+        "modelName": "2023 BMW 키 커버"
+      },
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 76700,
+        "mobileDiscountedSalePrice": 76700,
+        "sellerImmediateDiscountAmount": 32880,
+        "mobileSellerImmediateDiscountAmount": 32880,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 30,
+        "mobileDiscountedRatio": 30,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 767,
+        "mobileManagerPurchasePoint": 767,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 500,
+        "premiumPurchaseReviewPoint": 1000,
+        "storeMemberReviewPoint": 1000,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 500,
+        "photoVideoReviewPoint": 1000,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230413_85/16813848108323kAvg_JPEG/82520645654033076_267152871.jpg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230413_96/1681384811042pwW3r_JPEG/82520645860937970_1467454127.jpg",
+        "https://shop-phinf.pstatic.net/20230413_64/1681384812083HeLnO_JPEG/82520646899812439_1014700874.jpg",
+        "https://shop-phinf.pstatic.net/20230413_191/1681384812878N9uns_JPEG/82520647697272712_546019453.jpg",
+        "https://shop-phinf.pstatic.net/20230413_243/1681384813527WgQzj_JPEG/82520648346237645_159095001.jpg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 설명 아이보리 화이트 싱글 쉘 스타 그레이 싱글 쉘 클래식 블랙 싱글 쉘 파 피크 블루 싱글 쉘 엘레강트 퍼플 싱글 쉘 아이보리 화이트 로고 버클 스타 그레이 로고 버클 클래식 블랙 로고 버클 파 피크 블루 로고 버클 엘레강트 퍼플 로고 버클 상세 페이지",
+        "editorType": "SEONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000055",
+          "categoryName": "자동차용품"
+        },
+        {
+          "categoryId": "50000939",
+          "categoryName": "키용품"
+        },
+        {
+          "categoryId": "50003967",
+          "categoryName": "키케이스"
+        }
+      ]
+    },
+    {
+      "id": 8321589585,
+      "category": {
+        "wholeCategoryId": "50000008>50000158>50008248>50008288",
+        "wholeCategoryName": "생활/건강>문구/사무용품>사무용품>현수막",
+        "categoryId": "50008288",
+        "categoryName": "현수막"
+      },
+      "name": "빅폴배너 백월 스탠드 백보드 대형 현수막 행사장 거치대",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8281889020,
+      "salePrice": 84860,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {
+        "sellerTags": [
+          {
+            "text": "행사장"
+          },
+          {
+            "text": "축제"
+          },
+          {
+            "text": "이벤트"
+          },
+          {
+            "text": "행사용"
+          },
+          {
+            "text": "안내판"
+          },
+          {
+            "text": "공연장"
+          },
+          {
+            "text": "백월"
+          }
+        ]
+      },
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "naverShoppingSearchInfo": {
+        "manufacturerName": "제이텐스토어협력사",
+        "brandName": "제이텐스토어협력사",
+        "modelName": "ST-LW001"
+      },
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 59400,
+        "mobileDiscountedSalePrice": 59400,
+        "sellerImmediateDiscountAmount": 25460,
+        "mobileSellerImmediateDiscountAmount": 25460,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 30,
+        "mobileDiscountedRatio": 30,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 594,
+        "mobileManagerPurchasePoint": 594,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 500,
+        "premiumPurchaseReviewPoint": 1000,
+        "storeMemberReviewPoint": 1000,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 500,
+        "photoVideoReviewPoint": 1000,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230330_200/1680169306183dPVNY_JPEG/81305089877480168_536619703.jpg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230330_77/1680169306526SsLsJ_JPEG/81305090218202545_255110349.jpg",
+        "https://shop-phinf.pstatic.net/20230330_141/1680169307497irNms_JPEG/81305091199130256_231959778.jpg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "PAID",
+        "baseFee": 10000,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 설명 실내용 보드 3x2 그리드 2.3x1.55 실내용 보드 3x3 그리드 2.3x2.3 실내용 보드 3x4 그리드 2.3x3.05 3x3 그리드 철 2.3x2.3 3x4 그리드 철 2.3x3.05 3x5 그리드 철 2.3x3.8 3x6 그리드 철2.3x4.55 3x7 그리드 철2.3x5.3 3x8 그리드 철2.3x6.05 4x4 그리드 철3.05x3.05 4x5 그리드 철3.05x3.8 4x6 그리드 철3.05x4.55 4x7 그리드 철3.05x5.3 4x8 그리드 철3.05x6.05 3x1 그리드 수출 철2.3x0.8 3x",
+        "editorType": "SEONE"
+      },
+      "enableCart": true,
+      "freeDelivery": false,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000158",
+          "categoryName": "문구/사무용품"
+        },
+        {
+          "categoryId": "50008248",
+          "categoryName": "사무용품"
+        },
+        {
+          "categoryId": "50008288",
+          "categoryName": "현수막"
+        }
+      ]
+    },
+    {
+      "id": 8120548065,
+      "category": {
+        "wholeCategoryId": "50000003>50000213>50001861",
+        "wholeCategoryName": "디지털/가전>주방가전>믹서기",
+        "categoryId": "50001861",
+        "categoryName": "믹서기"
+      },
+      "name": "바이타믹스 콰이어트원 블렌더 호환 날 VM0149 VM0122",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8081798423,
+      "salePrice": 66640,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 66640,
+        "mobileDiscountedSalePrice": 66640,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 666,
+        "mobileManagerPurchasePoint": 666,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230220_121/1676899945454Yd2Uf_JPEG/78035725130493679_736223662.jpeg",
+      "optionalImageUrls": [],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [믹서기날 ]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000003",
+          "categoryName": "디지털/가전"
+        },
+        {
+          "categoryId": "50000213",
+          "categoryName": "주방가전"
+        },
+        {
+          "categoryId": "50001861",
+          "categoryName": "믹서기"
+        }
+      ]
+    },
+    {
+      "id": 8120575004,
+      "category": {
+        "wholeCategoryId": "50000008>50000156>50000871>50004339",
+        "wholeCategoryName": "생활/건강>악기>관악기>호른",
+        "categoryId": "50004339",
+        "categoryName": "호른"
+      },
+      "name": "블랙 수제 쇼파르 천연 버팔로 뿔피리 물소 뿔나팔",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8081825161,
+      "salePrice": 81340,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 81340,
+        "mobileDiscountedSalePrice": 81340,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 813,
+        "mobileManagerPurchasePoint": 813,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230220_98/1676900510225DBJCK_JPEG/78036405945873950_1599134560.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230220_26/1676900510605HBoh7_JPEG/78036345394413660_628210343.jpeg",
+        "https://shop-phinf.pstatic.net/20230220_25/1676900510989lwluy_JPEG/78036290710614831_399569168.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [노즐 블랙 혼 50에서 60CM]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000156",
+          "categoryName": "악기"
+        },
+        {
+          "categoryId": "50000871",
+          "categoryName": "관악기"
+        },
+        {
+          "categoryId": "50004339",
+          "categoryName": "호른"
+        }
+      ]
+    },
+    {
+      "id": 7979451512,
+      "category": {
+        "wholeCategoryId": "50000008>50000165>50001024>50003371",
+        "wholeCategoryName": "생활/건강>공구>원예공구>농기구",
+        "categoryId": "50003371",
+        "categoryName": "농기구"
+      },
+      "name": "고추대클립 포도 고정 클립 지지대 농작물 고추 작물",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7941290121,
+      "salePrice": 19590,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 19590,
+        "mobileDiscountedSalePrice": 19590,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 195,
+        "mobileManagerPurchasePoint": 195,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 1,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 5,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230126_260/16747378756263kofu_JPEG/75873659321273510_1689922916.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230126_32/1674737875982kAyHn_JPEG/2040559837549930_2075974464.jpeg",
+        "https://shop-phinf.pstatic.net/20230126_108/1674737876356vQvvW_JPEG/75873704162235573_1599090341.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [50A 검정 5cm 12-14 스틸 와이어] [65A 검정색 6.5cm 14-16강선] [65B 검정 6.5 cm 8-11 스틸 와이어] [100A 블랙 10cm 12-14 스틸 와이어] [120A 블랙 12cm 8-11 스틸 와이어] [59A 검정 5.9cm 15-17강선] [6.5C 흑색 6.5cm 10-14강선] [150A 검정색 15cm 11-14강선]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000165",
+          "categoryName": "공구"
+        },
+        {
+          "categoryId": "50001024",
+          "categoryName": "원예공구"
+        },
+        {
+          "categoryId": "50003371",
+          "categoryName": "농기구"
+        }
+      ]
+    },
+    {
+      "id": 7973293553,
+      "category": {
+        "wholeCategoryId": "50000008>50000165>50001032>50003459",
+        "wholeCategoryName": "생활/건강>공구>전기용품>기타 전기용품",
+        "categoryId": "50003459",
+        "categoryName": "기타 전기용품"
+      },
+      "name": "CBB60 세탁기 콘덴서 커패시터 워터펌프 모터 5 25 UF",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7935153365,
+      "salePrice": 14380,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 14380,
+        "mobileDiscountedSalePrice": 14380,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 143,
+        "mobileManagerPurchasePoint": 143,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230125_126/1674657919008LAwwx_PNG/75793702698450653_1687366194.png",
+      "optionalImageUrls": [],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [4UF ] [5UF ] [6UF ] [8UF ] [10UF ] [12UF ] [14UF ] [15UF ] [16UF ] [18UF ] [20UF ] [22UF ] [24UF ] [25UF]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000165",
+          "categoryName": "공구"
+        },
+        {
+          "categoryId": "50001032",
+          "categoryName": "전기용품"
+        },
+        {
+          "categoryId": "50003459",
+          "categoryName": "기타 전기용품"
+        }
+      ]
+    },
+    {
+      "id": 7059743223,
+      "category": {
+        "wholeCategoryId": "50000008>50000055>50000941>50004053",
+        "wholeCategoryName": "생활/건강>자동차용품>오일/소모품>오일필터",
+        "categoryId": "50004053",
+        "categoryName": "오일필터"
+      },
+      "name": "화물차 유수분 제거 필터 소형 유수 수분 분리 장치",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7026207455,
+      "salePrice": 83700,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 83700,
+        "mobileDiscountedSalePrice": 83700,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 837,
+        "mobileManagerPurchasePoint": 837,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20220819_89/1660842528073R5ifA_PNG/61978370760535273_847314762.png",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20220819_57/1660842528370wCTy7_JPEG/61978371075534612_1414545088.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [유수 분리기 단일] [유수 분리기 세트]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000055",
+          "categoryName": "자동차용품"
+        },
+        {
+          "categoryId": "50000941",
+          "categoryName": "오일/소모품"
+        },
+        {
+          "categoryId": "50004053",
+          "categoryName": "오일필터"
+        }
+      ]
+    },
+    {
+      "id": 7033497303,
+      "category": {
+        "wholeCategoryId": "50000008>50000080>50001799",
+        "wholeCategoryName": "생활/건강>정원/원예용품>정원부자재",
+        "categoryId": "50001799",
+        "categoryName": "정원부자재"
+      },
+      "name": "개비온철망 게비온 옹벽 담장 개비온 돌망태 시공",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7000083299,
+      "salePrice": 65840,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 65840,
+        "mobileDiscountedSalePrice": 65840,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 658,
+        "mobileManagerPurchasePoint": 658,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 1,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 5,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20220812_184/16602774135382YLlV_JPEG/61413256154008544_1676732458.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20220812_22/1660277413990ycd2B_JPEG/61413241799538660_2101088491.jpeg",
+        "https://shop-phinf.pstatic.net/20220812_155/16602774144923sXB0_JPEG/61413303196847553_1760354833.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000080",
+          "categoryName": "정원/원예용품"
+        },
+        {
+          "categoryId": "50001799",
+          "categoryName": "정원부자재"
+        }
+      ]
+    },
+    {
+      "id": 7025915564,
+      "category": {
+        "wholeCategoryId": "50000008>50000157>50000899>50002307",
+        "wholeCategoryName": "생활/건강>욕실용품>샤워기/수전용품>욕실부속품",
+        "categoryId": "50002307",
+        "categoryName": "욕실부속품"
+      },
+      "name": "실리콘 물막이 건식 화장실 욕실 샤워부스 방수 TPE",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 6992527604,
+      "salePrice": 20000,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 20000,
+        "mobileDiscountedSalePrice": 20000,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 200,
+        "mobileManagerPurchasePoint": 200,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20220810_273/1660140307759careC_JPEG/61276087484134499_618818187.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20220810_183/1660140308056N7NPI_JPEG/61276142887475212_684140598.jpeg",
+        "https://shop-phinf.pstatic.net/20220810_239/1660140308372rL6rL_JPEG/61276092080689444_591672831.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [단단한 방수 스트립 100cm [흰색]] [견고한 방수 스트립 150cm [흰색]] [단단한 방수 스트립 200cm [흰색]] [별도 기장 카카오톡 문의]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "stockQuantity": 3994,
+      "benefitsPolicy": {},
+      "mobileBenefitsPolicy": {},
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000157",
+          "categoryName": "욕실용품"
+        },
+        {
+          "categoryId": "50000899",
+          "categoryName": "샤워기/수전용품"
+        },
+        {
+          "categoryId": "50002307",
+          "categoryName": "욕실부속품"
+        }
+      ]
+    },
+    {
+      "id": 8963928570,
+      "category": {
+        "wholeCategoryId": "50000008>50000157>50000898>50002274",
+        "wholeCategoryName": "생활/건강>욕실용품>욕실잡화>변기커버",
+        "categoryId": "50002274",
+        "categoryName": "변기커버"
+      },
+      "name": "높은 변기 패드 높이 조절 보조 노인 임산부 좌변기 커버",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8921688159,
+      "salePrice": 42720,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "naverShoppingSearchInfo": {
+        "manufacturerName": "제이텐스토어협력사",
+        "brandName": "제이텐스토어협력사",
+        "modelName": "KW8143"
+      },
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 29900,
+        "mobileDiscountedSalePrice": 29900,
+        "sellerImmediateDiscountAmount": 12820,
+        "mobileSellerImmediateDiscountAmount": 12820,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 30,
+        "mobileDiscountedRatio": 30,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 299,
+        "mobileManagerPurchasePoint": 299,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 500,
+        "premiumPurchaseReviewPoint": 1000,
+        "storeMemberReviewPoint": 1000,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 500,
+        "photoVideoReviewPoint": 1000,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230730_261/1690724727555DRxOp_JPEG/18027411434245631_544320149.jpg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230730_269/1690724726532lMA2L_JPEG/18027410388243225_1635730194.jpg",
+        "https://shop-phinf.pstatic.net/20230730_148/1690724726265tYJ1i_JPEG/18027410136338941_59168364.jpg",
+        "https://shop-phinf.pstatic.net/20230730_208/1690724727909HkhkD_JPEG/18027411783216680_1827332336.jpg",
+        "https://shop-phinf.pstatic.net/20230730_12/16907247288383tHQi_JPEG/18027412713435796_1700038055.jpg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 설명 ㅤ1 흰색 2인치 높이 7cm(덮개 제외)ㅤ ㅤ흰색 2인치 2개 덮개 포함 높이 7cmㅤ ㅤ흰색 4인치 3개 덮개 없이 높이 10cmㅤ ㅤ흰색 4인치 4개 덮개 포함 높이 10cmㅤ ㅤ흰색 6인치 5개 덮개 없이 높이 14cmㅤ ㅤ흰색 6인치 6개 덮개 포함 높이 14cmㅤ 상세 페이지 제품명 변기 부스터 키높이 패드 소재 내하중 300kg 이상의 신환경 보호 수지 소재(의료용 플라스틱) 적용 범위 짧고 높은 변기, 고관절 및 대퇴 관절 수술 후, 산전 산후 임산부, 강직 환자, 허리와 다리를 구부릴 수 없는 환자, 일반",
+        "editorType": "SEONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "stockQuantity": 5999,
+      "benefitsPolicy": {
+        "sellerImmediateDiscountPolicyNo": "SE_8921688159",
+        "sellerImmediateDiscountValueUnit": "WON",
+        "sellerImmediateDiscountValue": 12820
+      },
+      "mobileBenefitsPolicy": {
+        "sellerImmediateDiscountPolicyNo": "SE_8921688159",
+        "sellerImmediateDiscountValueUnit": "WON",
+        "sellerImmediateDiscountValue": 12820
+      },
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000157",
+          "categoryName": "욕실용품"
+        },
+        {
+          "categoryId": "50000898",
+          "categoryName": "욕실잡화"
+        },
+        {
+          "categoryId": "50002274",
+          "categoryName": "변기커버"
+        }
+      ]
+    },
+    {
+      "id": 8790199117,
+      "category": {
+        "wholeCategoryId": "50000008>50000158>50000922>50003767",
+        "wholeCategoryName": "생활/건강>문구/사무용품>이벤트/파티용품>데코용품",
+        "categoryId": "50003767",
+        "categoryName": "데코용품"
+      },
+      "name": "대형 진군나팔 쇼파르 뿔나팔 촬영 소품 인테리어",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8748724391,
+      "salePrice": 191860,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {
+        "sellerTags": [
+          {
+            "text": "뿔나팔"
+          },
+          {
+            "text": "물소뿔"
+          },
+          {
+            "text": "중국"
+          },
+          {
+            "text": "물소"
+          },
+          {
+            "text": "뿔피리"
+          }
+        ]
+      },
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "naverShoppingSearchInfo": {
+        "manufacturerName": "제이텐스토어협력사",
+        "brandName": "제이텐스토어협력사"
+      },
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 134300,
+        "mobileDiscountedSalePrice": 134300,
+        "sellerImmediateDiscountAmount": 57560,
+        "mobileSellerImmediateDiscountAmount": 57560,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 30,
+        "mobileDiscountedRatio": 30,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 1343,
+        "mobileManagerPurchasePoint": 1343,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 500,
+        "premiumPurchaseReviewPoint": 1000,
+        "storeMemberReviewPoint": 1000,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 500,
+        "photoVideoReviewPoint": 1000,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230629_71/1688029755282a46N1_JPEG/89165597971144784_1746138040.jpg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230629_43/1688029755521uzsdW_JPEG/89165598208391932_176843624.jpg",
+        "https://shop-phinf.pstatic.net/20230629_47/1688029756667lsaOD_JPEG/89165599359039952_1839773665.jpg",
+        "https://shop-phinf.pstatic.net/20230629_114/1688029757126BhO4m_JPEG/89165599811060035_1769393697.jpg",
+        "https://shop-phinf.pstatic.net/20230629_242/1688029757978rx64G_JPEG/89165600681499492_1028837500.jpg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 설명 ㅤ대형 60-70cm + 목제 판ㅤ ㅤ중형 40-50 cmㅤ 상세 페이지 얼라이언스 컵. 고대 중국 북부의 유목민들은 동맹을 맹세하고 소뿔로 포도주를 채우고 잔을 한 모금 마셔서 우정의 진실성과 영원함을 보여주었습니다. 이 술잔을 얼라이언스 컵이라고 합니다. Tiemeng 컵은 고품질 뿔로 만들어졌으며 코어 파기, 껍질 벗기기 및 여러 번 연마 후 몸 전체가 마노처럼 매끄럽고 맑습니다. 술잔은 은이나 동으로 만들고 뿔의 뿌리에 뿔을 박고 뿔의 양끝에 금속을 깎아 장식하고 비단 술을 묶었다. 전체적인 모양은 단순하고 활기차",
+        "editorType": "SEONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000158",
+          "categoryName": "문구/사무용품"
+        },
+        {
+          "categoryId": "50000922",
+          "categoryName": "이벤트/파티용품"
+        },
+        {
+          "categoryId": "50003767",
+          "categoryName": "데코용품"
+        }
+      ]
+    },
+    {
+      "id": 8475342060,
+      "category": {
+        "wholeCategoryId": "50000004>50000108>50001119>50003332",
+        "wholeCategoryName": "가구/인테리어>인테리어소품>조명>벽등",
+        "categoryId": "50003332",
+        "categoryName": "벽등"
+      },
+      "name": "실외조명 대문등 LED 태양등 태양열 문주등 방수 정원",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8434932479,
+      "salePrice": 105150,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "naverShoppingSearchInfo": {
+        "manufacturerName": "제이텐스토어협력사",
+        "brandName": "제이텐스토어협력사",
+        "modelName": "현대 포스트 램프"
+      },
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 73600,
+        "mobileDiscountedSalePrice": 73600,
+        "sellerImmediateDiscountAmount": 31550,
+        "mobileSellerImmediateDiscountAmount": 31550,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 30,
+        "mobileDiscountedRatio": 30,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 736,
+        "mobileManagerPurchasePoint": 736,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 500,
+        "premiumPurchaseReviewPoint": 1000,
+        "storeMemberReviewPoint": 1000,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 500,
+        "photoVideoReviewPoint": 1000,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230429_275/1682701654574qkLjc_JPEG/10004338454895365_840784150.jpg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230429_282/1682701654329x5JpK_JPEG/10004338211678239_1653155927.jpg",
+        "https://shop-phinf.pstatic.net/20230429_290/1682701655981QXHM9_JPEG/10004339858284896_267072082.jpg",
+        "https://shop-phinf.pstatic.net/20230429_205/1682701655706T5PT7_JPEG/10004339586490740_1647733140.jpg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 설명 정사각형 25cm 태양광 모델 정사각형 30cm 태양광 모델 정사각형 40cm 태양광 모델 미니 사각형 20cm 태양광 모델 미니 사각형 26cm 태양열 모델 미니 사각형 20cm 연결 모델 미니 사각형 26cm 연결 모델 낮은 사각형 20cm 태양열 모델 낮은 사각형 25cm 태양열 모델 낮은 사각형 30cm 태양열 모델 상세 페이지",
+        "editorType": "SEONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000004",
+          "categoryName": "가구/인테리어"
+        },
+        {
+          "categoryId": "50000108",
+          "categoryName": "인테리어소품"
+        },
+        {
+          "categoryId": "50001119",
+          "categoryName": "조명"
+        },
+        {
+          "categoryId": "50003332",
+          "categoryName": "벽등"
+        }
+      ]
+    },
+    {
+      "id": 8402244624,
+      "category": {
+        "wholeCategoryId": "50000004>50000108>50000968",
+        "wholeCategoryName": "가구/인테리어>인테리어소품>기타장식용품",
+        "categoryId": "50000968",
+        "categoryName": "기타장식용품"
+      },
+      "name": "대형 달조명 달모형 조명조형물 야외 포토존 인테리어 LED",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8362160930,
+      "salePrice": 423290,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {
+        "sellerTags": [
+          {
+            "text": "조화장식"
+          },
+          {
+            "text": "감성소품"
+          },
+          {
+            "text": "감성인테리어"
+          },
+          {
+            "text": "장식품"
+          },
+          {
+            "text": "경관조명"
+          },
+          {
+            "text": "실외등"
+          },
+          {
+            "text": "화단조명"
+          },
+          {
+            "text": "감성조명"
+          },
+          {
+            "text": "파티조명"
+          }
+        ]
+      },
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "naverShoppingSearchInfo": {
+        "manufacturerName": "제이텐스토어협력사",
+        "brandName": "제이텐스토어협력사"
+      },
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 296300,
+        "mobileDiscountedSalePrice": 296300,
+        "sellerImmediateDiscountAmount": 126990,
+        "mobileSellerImmediateDiscountAmount": 126990,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 30,
+        "mobileDiscountedRatio": 30,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 2963,
+        "mobileManagerPurchasePoint": 2963,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 500,
+        "premiumPurchaseReviewPoint": 1000,
+        "storeMemberReviewPoint": 1000,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 500,
+        "photoVideoReviewPoint": 1000,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230414_67/1681466623075MGVol_JPEG/82602511775478722_1350326932.jpg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230414_279/1681466623290WI4vK_JPEG/82602511981843831_652853605.jpg",
+        "https://shop-phinf.pstatic.net/20230414_255/1681466624308RwQh4_JPEG/82602513004612198_12256779.jpg",
+        "https://shop-phinf.pstatic.net/20230414_168/1681466624689zSX43_JPEG/82602513377599738_1177756546.jpg",
+        "https://shop-phinf.pstatic.net/20230414_28/1681466625598BuKna_JPEG/82602514305815860_273544485.jpg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 설명 140x40x104cm 충전식 140x40x104cm 연결 모델 140x40x104cm 태양광 충전형 매달린 달 + A-프레임 충전 모델 행잉 타입 문 + A-프레임 연결 모델 매달린 달 + A-프레임 태양열 충전기 상세 페이지",
+        "editorType": "SEONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000004",
+          "categoryName": "가구/인테리어"
+        },
+        {
+          "categoryId": "50000108",
+          "categoryName": "인테리어소품"
+        },
+        {
+          "categoryId": "50000968",
+          "categoryName": "기타장식용품"
+        }
+      ]
+    },
+    {
+      "id": 8402127086,
+      "category": {
+        "wholeCategoryId": "50000008>50000165>50001031>50003453",
+        "wholeCategoryName": "생활/건강>공구>안전용품>비상/구난용품",
+        "categoryId": "50003453",
+        "categoryName": "비상/구난용품"
+      },
+      "name": "자동차 견인고리 오프로드 차량 윈치 로프 도르래 풀리 트레일러 링",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8362043808,
+      "salePrice": 67290,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {
+        "sellerTags": [
+          {
+            "text": "사용이편리한"
+          },
+          {
+            "text": "견고한프레임"
+          },
+          {
+            "text": "견인줄"
+          },
+          {
+            "text": "견인로프"
+          },
+          {
+            "text": "견인용로프"
+          },
+          {
+            "text": "견인고리"
+          },
+          {
+            "text": "카고트레일러"
+          },
+          {
+            "text": "카라반견인고리"
+          },
+          {
+            "text": "자동차견인장치"
+          },
+          {
+            "text": "포터견인고리"
+          }
+        ]
+      },
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "naverShoppingSearchInfo": {
+        "manufacturerName": "제이텐스토어협력사",
+        "brandName": "제이텐스토어협력사",
+        "modelName": "매듭이 있는 밧줄"
+      },
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 47100,
+        "mobileDiscountedSalePrice": 47100,
+        "sellerImmediateDiscountAmount": 20190,
+        "mobileSellerImmediateDiscountAmount": 20190,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 30,
+        "mobileDiscountedRatio": 30,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 471,
+        "mobileManagerPurchasePoint": 471,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 500,
+        "premiumPurchaseReviewPoint": 1000,
+        "storeMemberReviewPoint": 1000,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 500,
+        "photoVideoReviewPoint": 1000,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230414_197/16814657261357vwc1_JPEG/82601614847916725_112045471.jpg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230414_47/1681465725831G5qbn_JPEG/82601614544965786_1833343834.jpg",
+        "https://shop-phinf.pstatic.net/20230414_189/16814657272122oe2J_JPEG/82601615924893606_131818389.jpg",
+        "https://shop-phinf.pstatic.net/20230414_67/1681465727587yGWio_JPEG/82601616297183165_481698411.jpg",
+        "https://shop-phinf.pstatic.net/20230414_268/16814657284256XGS2_JPEG/82601617130195917_1846198317.jpg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 설명 레드 레터링 + B 블랙 핌플 버클 + 포켓 레드 레터링 + 블랙 핌플 버클 + 포켓 상세 페이지",
+        "editorType": "SEONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000165",
+          "categoryName": "공구"
+        },
+        {
+          "categoryId": "50001031",
+          "categoryName": "안전용품"
+        },
+        {
+          "categoryId": "50003453",
+          "categoryName": "비상/구난용품"
+        }
+      ]
+    },
+    {
+      "id": 8265030902,
+      "category": {
+        "wholeCategoryId": "50000008>50000165>50001034>50003467",
+        "wholeCategoryName": "생활/건강>공구>체결용품>리벳",
+        "categoryId": "50003467",
+        "categoryName": "리벳"
+      },
+      "name": "새로운 골프 신발 가방 방수 신발 가방 남자와 여자의 핸드백 리벳 패션 신발 가방을 휴대하기 쉬운",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8225598196,
+      "salePrice": 66580,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "naverShoppingSearchInfo": {
+        "manufacturerName": "제이텐스토어협력사",
+        "brandName": "제이텐스토어협력사"
+      },
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 46600,
+        "mobileDiscountedSalePrice": 46600,
+        "sellerImmediateDiscountAmount": 19980,
+        "mobileSellerImmediateDiscountAmount": 19980,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 30,
+        "mobileDiscountedRatio": 30,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 466,
+        "mobileManagerPurchasePoint": 466,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 500,
+        "premiumPurchaseReviewPoint": 1000,
+        "storeMemberReviewPoint": 1000,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 500,
+        "photoVideoReviewPoint": 1000,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230320_42/1679249121014eW2kM_JPEG/80384900717033921_1091035460.jpg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230320_196/1679249121329GE91b_JPEG/80384901036312229_1492559563.jpg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "PAID",
+        "baseFee": 10000,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 설명 화이트 블랙 상세 페이지 크기: 길이, 너비 및 높이 24*18*30CM 개인화 된 리벳, 가볍고 취하기 쉬운 패셔너블한 스타일",
+        "editorType": "SEONE"
+      },
+      "enableCart": true,
+      "freeDelivery": false,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000165",
+          "categoryName": "공구"
+        },
+        {
+          "categoryId": "50001034",
+          "categoryName": "체결용품"
+        },
+        {
+          "categoryId": "50003467",
+          "categoryName": "리벳"
+        }
+      ]
+    },
+    {
+      "id": 8238627696,
+      "category": {
+        "wholeCategoryId": "50000008>50000157>50008768>50008788",
+        "wholeCategoryName": "생활/건강>욕실용품>욕실발판/욕실매트>욕실발판/매트",
+        "categoryId": "50008788",
+        "categoryName": "욕실발판/매트"
+      },
+      "name": "욕실 나무발판 원목발판 씽크대 발판 목욕탕 베란다",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8199331636,
+      "salePrice": 31880,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 31880,
+        "mobileDiscountedSalePrice": 31880,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 318,
+        "mobileManagerPurchasePoint": 318,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230314_63/1678804561067UJQmE_JPEG/79940395903342050_373228498.jpeg",
+      "optionalImageUrls": [],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [길이 50 너비 30 높이 11] / [길이 60 가로 30 높이 11 ] / [길이 70 너비 30 높이 11] / [길이 50 너비 30 높이 15] / [길이 60 너비 30 높이 15] [길이 40 너비 30 높이 15]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000157",
+          "categoryName": "욕실용품"
+        },
+        {
+          "categoryId": "50008768",
+          "categoryName": "욕실발판/욕실매트"
+        },
+        {
+          "categoryId": "50008788",
+          "categoryName": "욕실발판/매트"
+        }
+      ]
+    },
+    {
+      "id": 8126434084,
+      "category": {
+        "wholeCategoryId": "50000008>50000165>50001031>50003445",
+        "wholeCategoryName": "생활/건강>공구>안전용품>마스크",
+        "categoryId": "50003445",
+        "categoryName": "마스크"
+      },
+      "name": "군용방독면 CS탄 필드 장비 헬멧 씰 군대 방독면 군복",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8087656905,
+      "salePrice": 32020,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 32020,
+        "mobileDiscountedSalePrice": 32020,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 320,
+        "mobileManagerPurchasePoint": 320,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230221_72/16769906824549Miha_JPEG/78126525164156532_1979504676.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230221_213/1676990683006LLpx3_JPEG/78126581693068745_1292730993.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [ 싱글 캐니스터 블랙투명 렌즈] [ 싱글 필터 머드투명 렌즈] [ 더블 캐니스터 그린투명 렌즈] [ 더블 필터 탱크 머드투명 렌즈] [ 더블 캐니스터 블랙투명 렌즈] [ 싱글 캐니스터 블랙블랙 렌즈] [ 싱글 필터 탱크 머드블랙 렌즈] [ 싱글 필터 탱크 그린블랙 렌즈] [ 더블 캐니스터 블랙블랙 렌즈] [ 더블 필터 탱크 머드블랙 렌즈] [ 더블 캐니스터 그린블랙 렌즈] [ 싱글 필터 탱크 그린 투명 렌즈] [ 블랙 레드 렌즈] [ 블랙 레드 렌즈 정화통 2개 ]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000165",
+          "categoryName": "공구"
+        },
+        {
+          "categoryId": "50001031",
+          "categoryName": "안전용품"
+        },
+        {
+          "categoryId": "50003445",
+          "categoryName": "마스크"
+        }
+      ]
+    },
+    {
+      "id": 8126412275,
+      "category": {
+        "wholeCategoryId": "50000004>50000108>50001119>50003340",
+        "wholeCategoryName": "가구/인테리어>인테리어소품>조명>인테리어조명",
+        "categoryId": "50003340",
+        "categoryName": "인테리어조명"
+      },
+      "name": "한옥조명 전통조명 램프 한지등 한옥등 한지무드등",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8087635197,
+      "salePrice": 37450,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 37450,
+        "mobileDiscountedSalePrice": 37450,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 374,
+        "mobileManagerPurchasePoint": 374,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230221_21/16769903551323gfUI_JPEG/4293039011343086_1423447445.jpeg",
+      "optionalImageUrls": [],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [우게구름창 스마트 리모컨] [모던 라이트 스마트 리모컨]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000004",
+          "categoryName": "가구/인테리어"
+        },
+        {
+          "categoryId": "50000108",
+          "categoryName": "인테리어소품"
+        },
+        {
+          "categoryId": "50001119",
+          "categoryName": "조명"
+        },
+        {
+          "categoryId": "50003340",
+          "categoryName": "인테리어조명"
+        }
+      ]
+    },
+    {
+      "id": 8064799263,
+      "category": {
+        "wholeCategoryId": "50000004>50000108>50001075",
+        "wholeCategoryName": "가구/인테리어>인테리어소품>인테리어분수",
+        "categoryId": "50001075",
+        "categoryName": "인테리어분수"
+      },
+      "name": "원목 물레방아 가정용 실내분수 인테리어분수 30cm",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8026297578,
+      "salePrice": 42170,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 42170,
+        "mobileDiscountedSalePrice": 42170,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 421,
+        "mobileManagerPurchasePoint": 421,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230210_280/1676023269518JoazE_JPEG/3325953400830672_197658313.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230210_264/16760232698482OsGe_JPEG/77159104684101633_2033815948.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [휠 직경 30cm] [휠 직경 20cm ] [바퀴의 직경은 30cm 물 펌핑 파이프 포함] [물 배출구 브래킷이 없는 직경 30cm] [바퀴의 직경은 20cm 물 펌핑 파이프 포함] [물 배출구 브래킷 제외 직경 20cm]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000004",
+          "categoryName": "가구/인테리어"
+        },
+        {
+          "categoryId": "50000108",
+          "categoryName": "인테리어소품"
+        },
+        {
+          "categoryId": "50001075",
+          "categoryName": "인테리어분수"
+        }
+      ]
+    },
+    {
+      "id": 8053837460,
+      "category": {
+        "wholeCategoryId": "50000007>50000164>50001001>50003075",
+        "wholeCategoryName": "스포츠/레저>수영>수영용품>기타수영용품",
+        "categoryId": "50003075",
+        "categoryName": "기타수영용품"
+      },
+      "name": "구명로프 자일로프 암벽등반 구조용 로프 안전 50m",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 8015383974,
+      "salePrice": 26440,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 26440,
+        "mobileDiscountedSalePrice": 26440,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 264,
+        "mobileManagerPurchasePoint": 264,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230209_128/1675870099490Ad9A0_PNG/3172783369948705_1361117475.png",
+      "optionalImageUrls": [],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [6mm 20미터 내하중 500kg] [8mm 15미터 내하중 800kg] [10mm 10미터 하중 1200kg] [10mm 15미터 하중 1200kg] [12mm 10미터 하중 1800kg]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000007",
+          "categoryName": "스포츠/레저"
+        },
+        {
+          "categoryId": "50000164",
+          "categoryName": "수영"
+        },
+        {
+          "categoryId": "50001001",
+          "categoryName": "수영용품"
+        },
+        {
+          "categoryId": "50003075",
+          "categoryName": "기타수영용품"
+        }
+      ]
+    },
+    {
+      "id": 7988815601,
+      "category": {
+        "wholeCategoryId": "50000008>50000054>50000636",
+        "wholeCategoryName": "생활/건강>화방용품>우드락/폼보드",
+        "categoryId": "50000636",
+        "categoryName": "우드락/폼보드"
+      },
+      "name": "폼보드 압축스티로폼 폼포드 폼아트 충격방지 단열재",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7950614525,
+      "salePrice": 15950,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 15950,
+        "mobileDiscountedSalePrice": 15950,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 159,
+        "mobileManagerPurchasePoint": 159,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230129_4/1674958406202jF5Mo_PNG/76094234017330575_648212604.png",
+      "optionalImageUrls": [],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000054",
+          "categoryName": "화방용품"
+        },
+        {
+          "categoryId": "50000636",
+          "categoryName": "우드락/폼보드"
+        }
+      ]
+    },
+    {
+      "id": 7973201176,
+      "category": {
+        "wholeCategoryId": "50000007>50000050>50007239",
+        "wholeCategoryName": "스포츠/레저>보호용품>손목보호대",
+        "categoryId": "50007239",
+        "categoryName": "손목보호대"
+      },
+      "name": "손목반깁스 팔꿈치 골절 통기성 팔목 고정 땀 깁스",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7935061563,
+      "salePrice": 15340,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 15340,
+        "mobileDiscountedSalePrice": 15340,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 153,
+        "mobileManagerPurchasePoint": 153,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230125_234/1674651675540AkrKn_JPEG/75787571269169211_79097106.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230125_160/1674651676073CB7IO_JPEG/75787503870403614_1568735621.jpeg",
+        "https://shop-phinf.pstatic.net/20230125_26/1674651676545RF6QT_PNG/75787572252308596_649037404.png"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [왼쪽] [오른쪽]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "stockQuantity": 1996,
+      "benefitsPolicy": {},
+      "mobileBenefitsPolicy": {},
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000007",
+          "categoryName": "스포츠/레저"
+        },
+        {
+          "categoryId": "50000050",
+          "categoryName": "보호용품"
+        },
+        {
+          "categoryId": "50007239",
+          "categoryName": "손목보호대"
+        }
+      ]
+    },
+    {
+      "id": 7973195571,
+      "category": {
+        "wholeCategoryId": "50000003>50000209>50001402>50002322",
+        "wholeCategoryName": "디지털/가전>음향가전>스피커>블루투스스피커",
+        "categoryId": "50002322",
+        "categoryName": "블루투스스피커"
+      },
+      "name": "트랜스페어런트 투명스피커 거실 디자인 홈 오디오",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7935056033,
+      "salePrice": 188760,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 188760,
+        "mobileDiscountedSalePrice": 188760,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 1887,
+        "mobileManagerPurchasePoint": 1887,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230125_202/1674651506993bPdoO_JPEG/75787340802182126_1238262140.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230125_9/1674651507355t39RF_JPEG/75787341152205263_1333539693.jpeg",
+        "https://shop-phinf.pstatic.net/20230125_263/1674651507734MrDOQ_JPEG/75787403465690315_1882056493.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [투명 블랙 트럼펫] [블랙 트럼펫 업그레이드] [흰색 트럼펫] [화이트 트럼펫 업그레이드]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000003",
+          "categoryName": "디지털/가전"
+        },
+        {
+          "categoryId": "50000209",
+          "categoryName": "음향가전"
+        },
+        {
+          "categoryId": "50001402",
+          "categoryName": "스피커"
+        },
+        {
+          "categoryId": "50002322",
+          "categoryName": "블루투스스피커"
+        }
+      ]
+    },
+    {
+      "id": 7965884605,
+      "category": {
+        "wholeCategoryId": "50000008>50000055>50000946>50004114",
+        "wholeCategoryName": "생활/건강>자동차용품>휴대폰용품>차량용휴대폰충전기",
+        "categoryId": "50004114",
+        "categoryName": "차량용휴대폰충전기"
+      },
+      "name": "벤츠 E 클래스 GLE GLB GLC 시리즈 패드 무선충전기",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7927771399,
+      "salePrice": 151870,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 151870,
+        "mobileDiscountedSalePrice": 151870,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 1518,
+        "mobileManagerPurchasePoint": 1518,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230124_72/1674550186853f27r3_JPEG/75686085563548284_713126886.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230124_70/16745501879842c2f3_JPEG/75685967677860484_833150342.jpeg",
+        "https://shop-phinf.pstatic.net/20230124_171/1674550188491qPLmf_JPEG/75686084225622494_1547924659.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [ GL ML GLE GLS 벤츠 충전기] [ GLA급 벤츠 충전기] [11-19 B급 벤츠 충전기] [22 C급 S급 벤츠 충전기] [E클래스 16-22모델 벤츠 충전기] [22 GLE/GLS 벤츠 충전기]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000055",
+          "categoryName": "자동차용품"
+        },
+        {
+          "categoryId": "50000946",
+          "categoryName": "휴대폰용품"
+        },
+        {
+          "categoryId": "50004114",
+          "categoryName": "차량용휴대폰충전기"
+        }
+      ]
+    },
+    {
+      "id": 7962493999,
+      "category": {
+        "wholeCategoryId": "50000004>50000101>50001234>50003244",
+        "wholeCategoryName": "가구/인테리어>거실가구>소파>패브릭소파",
+        "categoryId": "50003244",
+        "categoryName": "패브릭소파"
+      },
+      "name": "조약돌 쇼파 패브릭 양털 1인용 소파 미니 파우더룸",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7924393537,
+      "salePrice": 143690,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 143690,
+        "mobileDiscountedSalePrice": 143690,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 1436,
+        "mobileManagerPurchasePoint": 1436,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230123_65/1674479233768ob2Lu_JPEG/75615061590074040_1222493374.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230123_216/1674479234266bl7cn_JPEG/75615013954746958_1153270230.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [셰르파 싱글 체어오프 화이트] [셰르파 싱글 체어핑크] [셰르파 싱글 체어 그레이] [셰르파 싱글 체어 카키]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000004",
+          "categoryName": "가구/인테리어"
+        },
+        {
+          "categoryId": "50000101",
+          "categoryName": "거실가구"
+        },
+        {
+          "categoryId": "50001234",
+          "categoryName": "소파"
+        },
+        {
+          "categoryId": "50003244",
+          "categoryName": "패브릭소파"
+        }
+      ]
+    },
+    {
+      "id": 7962352782,
+      "category": {
+        "wholeCategoryId": "50000004>50000109>50000973",
+        "wholeCategoryName": "가구/인테리어>침구단품>담요",
+        "categoryId": "50000973",
+        "categoryName": "담요"
+      },
+      "name": "노르딕 담요 모던 와플 블랭킷 니트 순면 거실 소파",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7924252833,
+      "salePrice": 35310,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 35310,
+        "mobileDiscountedSalePrice": 35310,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 353,
+        "mobileManagerPurchasePoint": 353,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230123_6/1674477434283AvGMz_JPEG/1780118165493991_481676775.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230123_175/1674477434805wUGWm_JPEG/75613214525370204_1701780385.jpeg",
+        "https://shop-phinf.pstatic.net/20230123_9/167447743528177flV_JPEG/75613323961778577_547699044.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [100x150cm 흑백 회색] / [130x160cm 흑백 회색] [100x150cm 밀크티 그레이] / [130x160cm 밀크티 그레이]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000004",
+          "categoryName": "가구/인테리어"
+        },
+        {
+          "categoryId": "50000109",
+          "categoryName": "침구단품"
+        },
+        {
+          "categoryId": "50000973",
+          "categoryName": "담요"
+        }
+      ]
+    },
+    {
+      "id": 7940342322,
+      "category": {
+        "wholeCategoryId": "50000008>50000156>50000871>50004338",
+        "wholeCategoryName": "생활/건강>악기>관악기>플룻",
+        "categoryId": "50004338",
+        "categoryName": "플룻"
+      },
+      "name": "야마하 호환 플루트 헤드 플룻연주 U자 조인트",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7902324772,
+      "salePrice": 57400,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 57400,
+        "mobileDiscountedSalePrice": 57400,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 574,
+        "mobileManagerPurchasePoint": 574,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230118_163/1674049313576an3Mp_JPEG/1351997432584643_324162625.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230118_261/16740493142146CpP8_JPEG/75185142039527707_1113230784.jpeg",
+        "https://shop-phinf.pstatic.net/20230118_229/1674049314651jdcum_JPEG/75185098344357125_705306086.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000156",
+          "categoryName": "악기"
+        },
+        {
+          "categoryId": "50000871",
+          "categoryName": "관악기"
+        },
+        {
+          "categoryId": "50004338",
+          "categoryName": "플룻"
+        }
+      ]
+    },
+    {
+      "id": 7940310801,
+      "category": {
+        "wholeCategoryId": "50000008>50000054>50000923>50003778",
+        "wholeCategoryName": "생활/건강>화방용품>서예/동양화용품>먹물",
+        "categoryId": "50003778",
+        "categoryName": "먹물"
+      },
+      "name": "문심당 동양화 금묵 필사 금색 먹물 서예 붓글씨 연습",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7902293444,
+      "salePrice": 22370,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 22370,
+        "mobileDiscountedSalePrice": 22370,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 223,
+        "mobileManagerPurchasePoint": 223,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230118_127/167404849563958qFf_JPEG/75184330446340618_2040049455.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230118_35/1674048494889zVCiQ_JPEG/75184328700759998_1205000879.jpeg",
+        "https://shop-phinf.pstatic.net/20230118_174/1674048496340OhwaC_JPEG/75184276053251094_971734739.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [120ML] [250ML]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000054",
+          "categoryName": "화방용품"
+        },
+        {
+          "categoryId": "50000923",
+          "categoryName": "서예/동양화용품"
+        },
+        {
+          "categoryId": "50003778",
+          "categoryName": "먹물"
+        }
+      ]
+    },
+    {
+      "id": 7934944790,
+      "category": {
+        "wholeCategoryId": "50000003>50000090>50001572",
+        "wholeCategoryName": "디지털/가전>PC액세서리>손목받침대",
+        "categoryId": "50001572",
+        "categoryName": "손목받침대"
+      },
+      "name": "매직키보드 트랙패드 태블릿 샌들우드 손목받침대",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7896950475,
+      "salePrice": 70380,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 70380,
+        "mobileDiscountedSalePrice": 70380,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 703,
+        "mobileManagerPurchasePoint": 703,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230117_285/1673960721202a3wNG_JPEG/75096555015571995_662275577.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230117_119/1673964285231BbHKM_JPEG/1266969081422372_858341959.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [기계식 키보드 손목 받침대 31x14] [기계식 키보드 손목 받침대 32x14] [기계식 키보드 손목 받침대 36x14] [기계식 키보드 손목 받침대 39x14] [기계식 키보드 손목 받침대 44x14]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000003",
+          "categoryName": "디지털/가전"
+        },
+        {
+          "categoryId": "50000090",
+          "categoryName": "PC액세서리"
+        },
+        {
+          "categoryId": "50001572",
+          "categoryName": "손목받침대"
+        }
+      ]
+    },
+    {
+      "id": 7933409567,
+      "category": {
+        "wholeCategoryId": "50000003>50000210>50001410>50002352",
+        "wholeCategoryName": "디지털/가전>생활가전>청소기>로봇청소기",
+        "categoryId": "50002352",
+        "categoryName": "로봇청소기"
+      },
+      "name": "레노보 클린스테이션 호환 LR1 M8 Pro 대용량 배터리",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7895423979,
+      "salePrice": 47580,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 47580,
+        "mobileDiscountedSalePrice": 47580,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 475,
+        "mobileManagerPurchasePoint": 475,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230117_58/1673945733808YTnD8_JPEG/75081629545055413_467781685.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230117_197/1673945734200UJlDR_PNG/75081622892017567_1446429694.png",
+        "https://shop-phinf.pstatic.net/20230117_160/16739457343280jtuV_JPEG/75081562157461251_1809634287.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [5600mAh 배터리 수명 약 230분] [6800mAh 배터리 수명 약 280분]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000003",
+          "categoryName": "디지털/가전"
+        },
+        {
+          "categoryId": "50000210",
+          "categoryName": "생활가전"
+        },
+        {
+          "categoryId": "50001410",
+          "categoryName": "청소기"
+        },
+        {
+          "categoryId": "50002352",
+          "categoryName": "로봇청소기"
+        }
+      ]
+    },
+    {
+      "id": 7901077423,
+      "category": {
+        "wholeCategoryId": "50000008>50000055>50000938>50003956",
+        "wholeCategoryName": "생활/건강>자동차용품>세차용품>유리복원제",
+        "categoryId": "50003956",
+        "categoryName": "유리복원제"
+      },
+      "name": "자동차 유리 스크래치 수리 차량 균열 액체 복구 키트",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7863227314,
+      "salePrice": 19980,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 19980,
+        "mobileDiscountedSalePrice": 19980,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 199,
+        "mobileManagerPurchasePoint": 199,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230111_251/1673430477956DGl87_PNG/74566311731481722_75168412.png",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230111_103/1673430478226wJKMV_JPEG/74566312034789609_997058796.jpeg",
+        "https://shop-phinf.pstatic.net/20230111_44/1673430478486pkrfc_JPEG/74566312299167551_629629706.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [단일상품]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000055",
+          "categoryName": "자동차용품"
+        },
+        {
+          "categoryId": "50000938",
+          "categoryName": "세차용품"
+        },
+        {
+          "categoryId": "50003956",
+          "categoryName": "유리복원제"
+        }
+      ]
+    },
+    {
+      "id": 7891669062,
+      "category": {
+        "wholeCategoryId": "50000008>50000165>50001027>50003409",
+        "wholeCategoryName": "생활/건강>공구>전동공구>광택기",
+        "categoryId": "50003409",
+        "categoryName": "광택기"
+      },
+      "name": "가정용 왁싱기 타일 광택 장판 바닥 현관 화장실 청소",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7853864865,
+      "salePrice": 115030,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 115030,
+        "mobileDiscountedSalePrice": 115030,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 1150,
+        "mobileManagerPurchasePoint": 1150,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20230109_41/1673268912615JW3AG_JPEG/74404740446387601_877590886.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20230109_264/167326891288069tku_JPEG/74404747706279162_964278406.jpeg",
+        "https://shop-phinf.pstatic.net/20230109_181/1673268913277wGxq6_JPEG/74404801946917075_1124990736.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [왁싱기 + 액상 + 연마재 4개 패키지]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000165",
+          "categoryName": "공구"
+        },
+        {
+          "categoryId": "50001027",
+          "categoryName": "전동공구"
+        },
+        {
+          "categoryId": "50003409",
+          "categoryName": "광택기"
+        }
+      ]
+    },
+    {
+      "id": 7836785653,
+      "category": {
+        "wholeCategoryId": "50000008>50000165>50001024>50003371",
+        "wholeCategoryName": "생활/건강>공구>원예공구>농기구",
+        "categoryId": "50003371",
+        "categoryName": "농기구"
+      },
+      "name": "밭 비닐 씌우는 기계 포장 멀칭기 휴립피복기 고추",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7799188031,
+      "salePrice": 83890,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 83890,
+        "mobileDiscountedSalePrice": 83890,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 838,
+        "mobileManagerPurchasePoint": 838,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20221230_294/1672380153311HWUs4_PNG/73515936996938785_1991441657.png",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20221230_161/1672380153689OwCYs_JPEG/73515981511585348_738380167.jpeg",
+        "https://shop-phinf.pstatic.net/20221230_92/1672380154259UeW9X_JPEG/73515988076861123_1453562874.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [저능선형 0.3m-1m 폭 조절 가능] / [저능선형 0.3m-1.5m 폭 조절 가능] [고능선형 0.3m-1m 폭 조절 가능] / [고능선형 0.3m-1.5m 폭 조절 가능]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000165",
+          "categoryName": "공구"
+        },
+        {
+          "categoryId": "50001024",
+          "categoryName": "원예공구"
+        },
+        {
+          "categoryId": "50003371",
+          "categoryName": "농기구"
+        }
+      ]
+    },
+    {
+      "id": 7760100563,
+      "category": {
+        "wholeCategoryId": "50000004>50000105>50001239>50003295",
+        "wholeCategoryName": "가구/인테리어>서재/사무용가구>의자>의자발받침대",
+        "categoryId": "50003295",
+        "categoryName": "의자발받침대"
+      },
+      "name": "원목 발받침대 사무실 책상 의자 다리 발판 발거치대",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7722783877,
+      "salePrice": 28800,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 28800,
+        "mobileDiscountedSalePrice": 28800,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 288,
+        "mobileManagerPurchasePoint": 288,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 1,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 5,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20221216_228/16711257776011mtTS_JPEG/72261623317199343_277385649.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20221216_220/1671125777929K4nIm_JPEG/72261666615821314_1653764516.jpeg",
+        "https://shop-phinf.pstatic.net/20221216_14/1671125778470btUbi_JPEG/72261613273207750_1950176294.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [로우 우드 42롱] [하이 우드 42롱] [로우 우드 60롱] [하이 우드 60롱] [로우 브라운 42롱] [하이 브라운 42롱] [로우 브라운 60롱] [하이 브라운 60롱]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000004",
+          "categoryName": "가구/인테리어"
+        },
+        {
+          "categoryId": "50000105",
+          "categoryName": "서재/사무용가구"
+        },
+        {
+          "categoryId": "50001239",
+          "categoryName": "의자"
+        },
+        {
+          "categoryId": "50003295",
+          "categoryName": "의자발받침대"
+        }
+      ]
+    },
+    {
+      "id": 7723414528,
+      "category": {
+        "wholeCategoryId": "50000008>50000165>50001031>50003454",
+        "wholeCategoryName": "생활/건강>공구>안전용품>기타안전용품",
+        "categoryId": "50003454",
+        "categoryName": "기타안전용품"
+      },
+      "name": "고라니 방지망 울타리 철조망 양계망 닭장망 야생동물",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7686217631,
+      "salePrice": 69060,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 69060,
+        "mobileDiscountedSalePrice": 69060,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 690,
+        "mobileManagerPurchasePoint": 690,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20221209_211/1670588528578nfmfy_PNG/71724363354636671_551056190.png",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20221209_181/1670588529054fbvkG_JPEG/71724371743420105_1964866766.jpeg",
+        "https://shop-phinf.pstatic.net/20221209_118/1670588529446dBmRt_JPEG/71724425154052907_29765590.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [높이 1.2m 두께 2.5mm 길이 30m] [높이 1.5m 두께 2.5mm 길이 30m] [높이 1.8m 두께 2.5mm 길이 30m]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000165",
+          "categoryName": "공구"
+        },
+        {
+          "categoryId": "50001031",
+          "categoryName": "안전용품"
+        },
+        {
+          "categoryId": "50003454",
+          "categoryName": "기타안전용품"
+        }
+      ]
+    },
+    {
+      "id": 7039319191,
+      "category": {
+        "wholeCategoryId": "50000007>50000028>50001100>50002656",
+        "wholeCategoryName": "스포츠/레저>캠핑>랜턴>손전등",
+        "categoryId": "50002656",
+        "categoryName": "손전등"
+      },
+      "name": "휴대용 랜턴 LED 라이트 등산 충전식 손전등 후레쉬",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7005873688,
+      "salePrice": 22990,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 22990,
+        "mobileDiscountedSalePrice": 22990,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 229,
+        "mobileManagerPurchasePoint": 229,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 50,
+        "managerAfterUsePhotoVideoReviewPoint": 150
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20220814_60/1660412421909bcCTu_JPEG/61548255729358709_1286663140.jpeg",
+      "optionalImageUrls": [
+        "https://shop-phinf.pstatic.net/20220814_300/1660412422222vYtTY_JPEG/61548256042099012_202057721.jpeg",
+        "https://shop-phinf.pstatic.net/20220814_79/166041242289953U9s_JPEG/61548202561248246_407530686.jpeg"
+      ],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL"
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [[밝기] 2년 보증]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000007",
+          "categoryName": "스포츠/레저"
+        },
+        {
+          "categoryId": "50000028",
+          "categoryName": "캠핑"
+        },
+        {
+          "categoryId": "50001100",
+          "categoryName": "랜턴"
+        },
+        {
+          "categoryId": "50002656",
+          "categoryName": "손전등"
+        }
+      ]
+    },
+    {
+      "id": 7038685296,
+      "category": {
+        "wholeCategoryId": "50000008>50000061>50000886>50004568",
+        "wholeCategoryName": "생활/건강>주방용품>보관/밀폐용기>물통",
+        "categoryId": "50004568",
+        "categoryName": "물통"
+      },
+      "name": "대형 농약통 물통 농업용 물 탱크 약품 살충제 캠핑카",
+      "channel": {
+        "channelNo": 101602353,
+        "accountNo": 101512203,
+        "accountId": "ncp_1ofrbf_01",
+        "channelName": "제이텐스토어"
+      },
+      "storeKeepExclusiveProduct": false,
+      "productNo": 7005240688,
+      "salePrice": 33700,
+      "saleType": "NEW",
+      "productStatusType": "SALE",
+      "authenticationType": "NORMAL",
+      "seoInfo": {},
+      "optionUsable": true,
+      "optionStandards": [],
+      "supplementProductUsable": false,
+      "purchaseReviewInfo": {
+        "purchaseReviewExposure": true
+      },
+      "minorPurchasable": true,
+      "isRestrictCart": false,
+      "benefitsView": {
+        "discountedSalePrice": 33700,
+        "mobileDiscountedSalePrice": 33700,
+        "sellerImmediateDiscountAmount": 0,
+        "mobileSellerImmediateDiscountAmount": 0,
+        "managerImmediateDiscountAmount": 0,
+        "mobileManagerImmediateDiscountAmount": 0,
+        "discountedRatio": 0,
+        "mobileDiscountedRatio": 0,
+        "sellerPurchasePoint": 0,
+        "mobileSellerPurchasePoint": 0,
+        "sellerCustomerManagementPoint": 0,
+        "mobileSellerCustomerManagementPoint": 0,
+        "managerPurchasePoint": 337,
+        "mobileManagerPurchasePoint": 337,
+        "managerPurchaseExtraPoint": 0,
+        "mobileManagerPurchaseExtraPoint": 0,
+        "generalPurchaseReviewPoint": 0,
+        "premiumPurchaseReviewPoint": 0,
+        "storeMemberReviewPoint": 0,
+        "managerGeneralPurchaseReviewPoint": 50,
+        "managerPremiumPurchaseReviewPoint": 150,
+        "givePresent": false,
+        "textReviewPoint": 0,
+        "photoVideoReviewPoint": 0,
+        "afterUseTextReviewPoint": 0,
+        "afterUsePhotoVideoReviewPoint": 0,
+        "managerTextReviewPoint": 50,
+        "managerPhotoVideoReviewPoint": 150,
+        "managerAfterUseTextReviewPoint": 0,
+        "managerAfterUsePhotoVideoReviewPoint": 0
+      },
+      "reviewAmount": {
+        "totalReviewCount": 0,
+        "premiumReviewCount": 0,
+        "averageReviewScore": 0,
+        "productSatisfactionPercent": 0
+      },
+      "displayable": true,
+      "usableDelivery": true,
+      "representativeImageUrl": "https://shop-phinf.pstatic.net/20221203_129/1670042553207XKozM_JPEG/71178448945273362_328125688.jpeg",
+      "optionalImageUrls": [],
+      "productDeliveryInfo": {
+        "deliveryFeeType": "FREE",
+        "baseFee": 0,
+        "deliveryAttributeType": "NORMAL",
+        "deliveryBundleGroup": {
+          "id": 53388855
+        }
+      },
+      "detailContents": {
+        "detailContentText": "옵션 이미지 [생수통 약 25L] [생수통 약 30L] [생수통 약 48L] [생수통 약 80L] [안티에이징 생수통 약 80L]",
+        "editorType": "NONE"
+      },
+      "enableCart": true,
+      "freeDelivery": true,
+      "todayDelivery": false,
+      "regularSubscription": false,
+      "arrivalGuarantee": false,
+      "subscriptionBenefitContent": [],
+      "rmids": [],
+      "rentalOneTimeFee": false,
+      "authorizationDisplay": "NORMAL",
+      "categoryNavigations": [
+        {
+          "categoryId": "50000008",
+          "categoryName": "생활/건강"
+        },
+        {
+          "categoryId": "50000061",
+          "categoryName": "주방용품"
+        },
+        {
+          "categoryId": "50000886",
+          "categoryName": "보관/밀폐용기"
+        },
+        {
+          "categoryId": "50004568",
+          "categoryName": "물통"
+        }
+      ]
+    }
+  ],
+  "totalCount": 2754
+}
