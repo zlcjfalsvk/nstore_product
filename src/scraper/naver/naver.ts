@@ -25,9 +25,9 @@ export class Naver {
 
 	async Start(): Promise<string> {
 		try {
-			await this.getMarketInfo();
+			const marketInfo = await this.getMarketInfo();
+			this.updateChannelInfo(marketInfo);
 			await this.getProducts();
-
 			return this.#channelName;
 		} catch (e) {
 			console.error(e);
@@ -36,26 +36,26 @@ export class Naver {
 		return '';
 	}
 
-	private async getMarketInfo(): Promise<void> {
+	private updateChannelInfo(marketInfo: Record<string, any>): void {
+		this.#channelUid = marketInfo.channel.channelUid;
+		this.#channelName = marketInfo.channel.channelName;
+		this.#db = new JsonDB(
+			new Config(
+				`db/${marketInfo.channel.channelName}`,
+				true,
+				false,
+				'/',
+			),
+		);
+
+		this.bestProductNos = marketInfo.specialProducts.bestProductNos || [];
+		this.newProductNos = marketInfo.specialProducts.newProductNos || [];
+	}
+
+	private async getMarketInfo(): Promise<Record<string, any>> {
 		const url = `${this.#defaultUrl}/i/v1/smart-stores?url=${this.#name}`;
 		try {
-			const responseData = (await axios.get(url))?.data;
-
-			this.#channelUid = responseData.channel.channelUid;
-			this.#channelName = responseData.channel.channelName;
-			this.#db = new JsonDB(
-				new Config(
-					`db/${responseData.channel.channelName}`,
-					true,
-					false,
-					'/',
-				),
-			);
-
-			this.bestProductNos =
-				responseData.specialProducts.bestProductNos || [];
-			this.newProductNos =
-				responseData.specialProducts.newProductNos || [];
+			return (await axios.get(url))?.data;
 		} catch (e) {
 			throw new Error(`${this.#name}의 channelUid를 알 수 없습니다`);
 		}
@@ -67,13 +67,10 @@ export class Naver {
 
 		let page = this.getPageUrl(pageNum, pageSize);
 		// 상품을 구하고 바로 가공을 한다
-		const firstPageData: ProductPage = (
-			await axios.get(page.url, {
-				headers: {
-					Referer: page.headerReferer,
-				},
-			})
-		)?.data;
+		const firstPageData = await this.getProductPage(
+			page.url,
+			page.headerReferer,
+		);
 
 		const transformData = this.transformData(firstPageData.simpleProducts);
 		await this.saveTransformDataOnFile(transformData);
@@ -90,13 +87,10 @@ export class Naver {
 		console.log(`${pageNum++}/${totalPage} Page 완료 ----------------`);
 		while (pageNum <= totalPage) {
 			page = this.getPageUrl(pageNum, pageSize);
-			const pageData: ProductPage = (
-				await axios.get(page.url, {
-					headers: {
-						Referer: page.headerReferer,
-					},
-				})
-			)?.data;
+			const pageData = await this.getProductPage(
+				page.url,
+				page.headerReferer,
+			);
 
 			const transformData = this.transformData(pageData.simpleProducts);
 			await this.saveTransformDataOnFile(transformData);
@@ -183,5 +177,18 @@ export class Naver {
 		}/category/ALL?st=TOTALSALE&dt=BIG_IMAGE&page=${pageNum}&size=${pageSize}`;
 
 		return { url, headerReferer };
+	}
+
+	private async getProductPage(
+		url: string,
+		headerReferer: string,
+	): Promise<ProductPage> {
+		return (
+			await axios.get(url, {
+				headers: {
+					Referer: headerReferer,
+				},
+			})
+		).data;
 	}
 }
