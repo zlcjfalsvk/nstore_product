@@ -76,7 +76,7 @@ export class Naver {
    * 마켓 정보를 기반으로 채널 정보를 업데이트합니다.
    * @param marketInfo 마켓 정보 객체
    */
-  private updateChannelInfo(marketInfo: Record<string,  Any>): void {
+   updateChannelInfo(marketInfo: Record<string,  Any>): void {
     // 채널 UID와 이름 설정
     this.#channelUid = marketInfo.channel.channelUid;
     this.#channelName = marketInfo.channel.channelName;
@@ -101,7 +101,7 @@ export class Naver {
    * @returns 마켓 정보 객체
    * @throws 채널 UID를 찾을 수 없을 경우 에러
    */
-  private async getMarketInfo(): Promise<Record<string, Any>> {
+   async getMarketInfo(): Promise<Record<string, Any>> {
     const url = `${this.#defaultUrl}/i/v1/smart-stores?url=${this.#name}`;
     try {
       return (await axios.get(url))?.data;
@@ -113,7 +113,7 @@ export class Naver {
   /**
    * 모든 상품 정보를 가져와 처리합니다.
    */
-  private async getProducts(): Promise<void> {
+   async getProducts(): Promise<void> {
     let pageNum = 1;
     const pageSize = 40; // 페이지당 상품 수
 
@@ -177,7 +177,7 @@ export class Naver {
    * @param data 원본 상품 데이터 배열
    * @returns 변환된 상품 데이터 배열
    */
-  private transformData(data: Product[]): ITransformProduct[] {
+   transformData(data: Product[]): ITransformProduct[] {
     const transformedProducts: ITransformProduct[] = [];
 
     for (const product of data) {
@@ -208,7 +208,7 @@ export class Naver {
    * 변환된 상품 데이터를 파일에 저장합니다.
    * @param data 변환된 상품 데이터 배열
    */
-  private async saveTransformDataOnFile(
+   async saveTransformDataOnFile(
     data: ITransformProduct[],
   ): Promise<void> {
     for (const product of data) {
@@ -235,7 +235,7 @@ export class Naver {
    * @param id 상품 ID
    * @returns 태그 배열
    */
-  private getTags(id: number): string[] {
+   getTags(id: number): string[] {
     const tags: string[] = [];
 
     // BEST 태그 추가
@@ -257,7 +257,7 @@ export class Naver {
    * @param pageSize 페이지 크기
    * @returns URL과 헤더 레퍼러 정보
    */
-  private getPageUrl(
+   getPageUrl(
     pageNum: number,
     pageSize: number,
   ): {
@@ -283,7 +283,7 @@ export class Naver {
    * @param headerReferer 헤더 레퍼러
    * @returns 상품 페이지 데이터
    */
-  private async getProductPage(
+   async getProductPage(
     url: string,
     headerReferer: string,
   ): Promise<ProductPage> {
