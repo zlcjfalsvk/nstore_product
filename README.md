@@ -1,11 +1,114 @@
-네이버 스마트 스토어 상품 리스트 추출
+# 네이버 스마트스토어 상품 리스트 추출기
 
-### Setting
-- node 18 (or command - nvm use)
-- npm install
+네이버 스마트스토어의 상품 정보를 자동으로 수집하여 CSV 파일로 저장하는 프로그램입니다.
 
-### For Window
-- npm run pkg-win
+## 주요 기능
 
-### For Intel Mac
-- npm run pkg-imac
+- 스마트스토어 URL 입력으로 간편한 상품 정보 수집
+- 상품명, 가격, 할인가, 리뷰 수 등 주요 정보 추출
+- BEST, NEW 태그 자동 분류
+- CSV 파일로 데이터 내보내기 (한글 지원)
+- 자동 재시도 및 속도 제한 대응
+
+## 설치 방법
+
+### 사전 요구사항
+- Node.js 18 이상
+- npm 또는 yarn
+
+### 설치
+```bash
+# 의존성 설치
+npm install
+
+# 또는 nvm 사용시
+nvm use
+npm install
+```
+
+## 사용 방법
+
+### 개발 모드
+```bash
+npm run dev
+# 또는
+npx ts-node src/index.ts
+```
+
+### 빌드 및 실행
+
+#### Windows
+```bash
+npm run pkg-win
+# dist/index.exe 실행
+```
+
+#### macOS (Intel)
+```bash
+npm run pkg-imac
+# 생성된 실행 파일 실행
+```
+
+#### macOS (Apple Silicon)
+```bash
+npm run build
+node dist/index.js
+```
+
+## 사용 예시
+
+1. 프로그램 실행
+2. 네이버 스마트스토어 URL 입력 (예: https://smartstore.naver.com/storename)
+3. 자동으로 상품 정보 수집 시작
+4. 수집 완료 후 CSV 파일 생성
+
+## 보안 개선 사항
+
+### 입력 검증
+- URL 형식 검증 및 정규식 패턴 매칭
+- 경로 순회 공격 방지
+- 안전한 파일명 생성
+
+### API 요청 안정성
+- 타임아웃 설정 (10초)
+- 자동 재시도 (최대 3회)
+- 지수 백오프 적용
+- 속도 제한 대응
+
+### 에러 처리
+- 구체적인 에러 메시지 제공
+- 예외 상황별 적절한 처리
+- 안전한 종료 보장
+
+### 데이터 처리
+- 유효성 검증 강화
+- 병렬 처리로 성능 개선
+- 타입 안정성 강화
+
+## 출력 파일
+
+- **JSON 파일**: `db/[스토어명].json` - 수집된 원본 데이터
+- **CSV 파일**: `[스토어명].csv` - 엑셀에서 열 수 있는 형식
+
+## 주의사항
+
+- 네이버 서비스 이용약관을 준수하여 사용하세요
+- 과도한 요청은 차단될 수 있습니다
+- 개인적인 용도로만 사용하세요
+- 수집된 데이터의 상업적 이용은 법적 문제가 될 수 있습니다
+
+## 개발
+
+### 테스트 실행
+```bash
+npm test
+```
+
+### 린트 검사
+```bash
+npm run lint
+```
+
+## 라이선스
+
+ISC

@@ -134,6 +134,22 @@ dist
 # exe
 *.exe
 
-# CSV
+# CSV 및 데이터 파일
+*.csv
 *.CSV
-db
+db/
+*.json
+
+# 빌드 결과물
+*.exe
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# 임시 파일
+*.tmp
+temp/
+tmp/
